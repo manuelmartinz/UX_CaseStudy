@@ -37,19 +37,9 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 
 #### 2. Metodología (The "How")
 
-INdicar las herramientas a utilizar, p.e. 
+Para evaluar la usabilidad de Goiko, realizararemos una evaluación mediante tareas guiadas, en la que los participantes deberán realizar acciones concretas dentro del sitio web, como buscar una hamburguesa, consultar sus ingredientes o localizar un restaurante cercano.  
 
-- **Cuantitativa:** El cuestionario **SUS** para obtener una nota numérica.
-- **Biométrica:** **Eye Tracking** para ver el comportamiento visual real.
-- **Comparativa:** El **A/B Testing** para medir tu diseño contra el de tu compañero.
-
-Se pueden relacionar sobre el panorama de **Framework tridimensional de métodos UX** de Christian Rohrer (attitudinal Vs Behavioural, Qualitative VS Quantitative, Context of Use)
-
-
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QkF2uE-NsI0piP90AQkF-A.png" alt="UX Reaearch Methods" style="height:450px" />
-
-ref: https://www.nngroup.com/articles/which-ux-research-methods/
+Además, se utilizará el cuestionario SUS (System Usability Scale) para obtener una valoración numérica de la usabilidad del sistema desde la perspectiva del usuario.  
 
 #### 3. Perfil de los Participantes (The "Who")
 
