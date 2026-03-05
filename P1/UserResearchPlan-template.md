@@ -17,21 +17,21 @@ Un **UX Research Plan** (Plan de Investigación de Usuario) es el documento estr
 Para que sea profesional, tu plan debe responder a estas secciones:
 #### 1. Antecedentes y Objetivos (The "Why")
 
-- **Contexto:** ¿Por qué estamos evaluando estos prototipos ahora? (Ej: "Validar la nueva interfaz de GazeMapping antes de pasar a desarrollo").
+- **Contexto:** ¿Por qué estamos evaluando estos prototipos ahora?
 
+  Evaluamos la interfaz de Goiko, para mejorar la navegación, la búsqueda de información y conseguir un mayor número de ventas y reservas.
 
+- **Objetivos de investigación:** 
 
-- **Objetivos de investigación:** Deben ser específicos. No digas "ver si gusta"; di "evaluar si la ubicación del menú lateral permite completar una reserva en menos de 30 segundos".
+  Evaluar si una persona puede reservar en su ciudad en menos de 30 segundos.
+  Evaluar si la navegación es clara y sencilla.
+  Evaluar si se pueden encontrar los ingredientes y alérgenos de las hamburguesas
+  Evaluar si la ubicación de los locales esta disponible y si se localizan en menos de 30 segundos.
 
 - **Experiencia del equipo / justificación**
 
-> tipología:
->
-> > como diseñador (he creado productos similares... )
-
->> como stakeholder (he tenido experiencia al ser parte de .... )
-
->> como observador/oir a la gente (observo que....)
+Como estudiantes, es nuestra primera experiencia en el diseño y evaluación de un sitio web.
+Como observadores nos gustaría encontrar con facilidad la carta , el lugar del local, precios y reservar para no quedarnos sin sitio.
 
 
 
