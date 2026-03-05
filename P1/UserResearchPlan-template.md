@@ -23,15 +23,15 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 
 - **Objetivos de investigación:** 
 
-  -Evaluar si una persona puede reservar en su ciudad en menos de 30 segundos.
-  -Evaluar si la navegación es clara y sencilla.
-  -Evaluar si se pueden encontrar los ingredientes y alérgenos de las hamburguesas
-  -Evaluar si la ubicación de los locales esta disponible y si se localizan en menos de 30 segundos.
+  -Evaluar si una persona puede reservar en su ciudad en menos de 30 segundos.  
+  -Evaluar si la navegación es clara y sencilla.  
+  -Evaluar si se pueden encontrar los ingredientes y alérgenos de las hamburguesas.  
+  -Evaluar si la ubicación de los locales esta disponible y si se localizan en menos de 30 segundos.  
 
 - **Experiencia del equipo / justificación**
 
--Como estudiantes, es nuestra primera experiencia en el diseño y evaluación de un sitio web.
--Como observadores nos gustaría encontrar con facilidad la carta , el lugar del local, precios y reservar para no quedarnos sin sitio.
+-Como estudiantes, es nuestra primera experiencia en el diseño y evaluación de un sitio web.  
+-Como observadores nos gustaría encontrar con facilidad la carta , el lugar del local, precios y reservar para no quedarnos sin sitio.  
 
 
 
