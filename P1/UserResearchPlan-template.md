@@ -45,12 +45,12 @@ Además, se utilizará el cuestionario SUS (System Usability Scale) para obtener
 
 Define a quién vas a reclutar.
 
-- **Criterios de inclusión:** 
-  -Edad: 18-60 años.  
-  -Nivel de competencia digital: Básico-Avanzado.  
-  -Idioma: Español.  
-  -Experiencia previa: Personas que no hayan vistado previamente la web de Goiko y no visiten habitualmente los sitios web de comida rápida.  
-  -Condiciones de visión: se permitirá la participación de personas que utilicen gafas.  
+- **Criterios de inclusión:**
+  - Edad: 18-60 años.  
+  - Nivel de competencia digital: Básico-Avanzado.  
+  - Idioma: Español.  
+  - Experiencia previa: Personas que no hayan vistado previamente la web de Goiko y no visiten habitualmente los sitios web de comida rápida.  
+  - Condiciones de visión: se permitirá la participación de personas que utilicen gafas.  
   
   
   
