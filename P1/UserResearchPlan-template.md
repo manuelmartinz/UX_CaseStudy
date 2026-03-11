@@ -75,10 +75,11 @@ Define a quién vas a reclutar.
 
 
 #### 5. Cronograma y Entregables
-
-> Simplemente enumerar los entrañables que se suponen se van a desarrollar con el estudio
-
-- p.e.  **Usability Report** final con las recomendaciones de mejora.
+  - **Usability Report** final con las recomendaciones de mejora.
+  - Resultados de las pruebas de las tareas.
+  - Resultados del cuestionario SUS.
+  - Identificación de problemas de usabilidad.
+  - Conclusiones del estudio.  
 
 
 
