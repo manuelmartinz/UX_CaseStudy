@@ -32,7 +32,7 @@ Hemos creado estas dos personas totalmente diferentes (tanto física como psicol
 
 - **Rosa Lorite**: Una chica de 18 años, estudiante de medicina de nuevo ingreso en Granada, cuyo sueño es ser neuróloga para encontrar la cura del alzheimer. Busca un lugar donde cenar con sus nuevos compañeros de clase para poder conocerse mejor.
 
-![Persona1](Persona1.jpg)
+![Persona1](/P1/Personas/Persona#1.jpg)
 
 - **Manuel Cazorla Chica**: Un padre de 44 años, agricultor, que viene de una familia de campo. Ha aprovechado el finde de escapada a Granada con su mujer y sus hijos. Es amante de las hamburguesas, y quiere probar locales que le recomendó su hermano que vive en Granada. Busca un lugar donde cenar con su familia y que tenga una carta adaptada a su hijo alérgico a varios productos.
 
