@@ -1,8 +1,9 @@
 
 # DIU CMU Isabel :boom:
 Miembros:
-- Manuel Martínez Herrera (subgrupo 3) :octocat:
-- Lola Lorite Díaz (subgrupo 1) :octocat:
+- Manuel Martínez Herrera (subgrupo 3)  :octocat:
+- Lola Lorite Díaz (subgrupo 1)  :octocat:
+
   - **Tema**: Hamburguesas
 
 # Práctica 1
@@ -25,13 +26,13 @@ Miembros:
 
 
 
-## 👥 Personas
+## :busts_in_silhouette: Personas
 
 Hemos creado estas dos personas totalmente diferentes (tanto física como psicológicamente) para intentar abordar un amplio espectro de tipos de usuario en nuestro contexto de hamburgueserías en Granada:
 
 - **Rosa Lorite**: Una chica de 18 años, estudiante de medicina de nuevo ingreso en Granada, cuyo sueño es ser neuróloga para encontrar la cura del alzheimer. Busca un lugar donde cenar con sus nuevos compañeros de clase para poder conocerse mejor.
 
-![]
+![Persona1](Persona1.jpg)
 
 - **Manuel Cazorla Chica**: Un padre de 44 años, agricultor, que viene de una familia de campo. Ha aprovechado el finde de escapada a Granada con su mujer y sus hijos. Es amante de las hamburguesas, y quiere probar locales que le recomendó su hermano que vive en Granada. Busca un lugar donde cenar con su familia y que tenga una carta adaptada a su hijo alérgico a varios productos.
 
