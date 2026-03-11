@@ -8,6 +8,7 @@ Documento plantilla, adaptar al contenido que sea necesario.
 
 <img src="https://img.uxcel.com/cdn-cgi/image/format=auto/practices/user-research-1599142817996/a-1696512677044-2x.jpg" alt="UX Reaearch plan" style="height:250px" />
 
+
 ## 1 Descripción 
 
 
@@ -34,12 +35,12 @@ Para que sea profesional, tu plan debe responder a estas secciones:
   - Como observadores nos gustaría encontrar con facilidad la carta , el lugar del local, precios y reservar para no quedarnos sin sitio.  
 
 
-
 #### 2. Metodología (The "How")
 
 Para evaluar la usabilidad de Goiko, realizararemos una evaluación mediante tareas guiadas, en la que los participantes deberán realizar acciones concretas dentro del sitio web, como buscar una hamburguesa, consultar sus ingredientes o localizar un restaurante cercano.  
 
 Además, se utilizará el cuestionario SUS (System Usability Scale) para obtener una valoración numérica de la usabilidad del sistema desde la perspectiva del usuario.  
+
 
 #### 3. Perfil de los Participantes (The "Who")
 
@@ -57,7 +58,6 @@ Define a quién vas a reclutar.
 - **Segmentación:** Usuarios de clase (co-evaluación) vs. usuarios externos.
   - Usuarios de clase: compañeros que participarán en las pruebas de usabilidad.
   - Usuarios externos: personas ajenas a la asignatura, para reducir y/o eliminar algunos sesgos.
-
 
 
 #### 4. Guion y Tareas (The "What")
