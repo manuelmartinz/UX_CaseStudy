@@ -46,7 +46,7 @@ Para el estudio de una experiencia de nuestras personas ficticias, ambos perfile
 
 - **Rosa Lorite**: 
 
-- **Manuel Cazorla Chica**: Busca por la red lugares donde poder comer hamburguesas en Granada. Tras scrollear un rato reconoce el nombre de Goiko. Entra en la web, y le da buena impresión, así que decide buscar la carta de alérgenos para su hijo. Tarda en encontrarla, pues, no es muy hábil con las tecnologías. Al ver que tiene gran variedad de hamburguesas para alérgicos, decide reservar mesa en el local.
+- **Manuel Cazorla Chica**: Busca por la red lugares donde poder comer hamburguesas en Granada. Tras scrollear un rato reconoce el nombre de *Goiko*. Entra en la web, y le da buena impresión, así que decide buscar la carta de alérgenos para su hijo. Tarda en encontrarla, pues, no es muy hábil con las tecnologías. Al ver que tiene gran variedad de hamburguesas para alérgicos, decide reservar mesa en el local.
 
 ![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/5d070c95245495e8fa814e68bdf37a799aa47fc8/P1/UserJourneyMaps/UserJourneyMap%232.png)
 
