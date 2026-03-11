@@ -45,9 +45,18 @@ Además, se utilizará el cuestionario SUS (System Usability Scale) para obtener
 
 Define a quién vas a reclutar.
 
-- **Criterios de inclusión:** Edad, nivel de competencia digital, si usan gafas (por el eye tracking), etc.
+- **Criterios de inclusión:** 
+  -Edad: 18-60 años.  
+  -Nivel de competencia digital: Básico-Avanzado.  
+  -Idioma: Español.  
+  -Experiencia previa: Personas que no hayan vistado previamente la web de Goiko y no visiten habitualmente los sitios web de comida rápida.  
+  -Condiciones de visión: se permitirá la participación de personas que utilicen gafas.  
+  
+  
   
 - **Segmentación:** Usuarios de clase (co-evaluación) vs. usuarios externos.
+  -Usuarios de clase: compañeros que participarán en las pruebas de usabilidad.    
+  -Usuarios externos: personas ajenas a la asignatura, para reducir y/o eliminar algunos sesgos.
 
 
 
@@ -55,11 +64,14 @@ Define a quién vas a reclutar.
 
 ¿Qué le vas a pedir al usuario que haga exactamente?
 
-- "Busca el producto X y añádelo al carrito".
+- "Busca la carta".  
+- "Busca la carta de alérgenos".  
+- "Busca tu restaurante más cercano a tu ubicación".  
+- "Busca el precio de la hamburguesa Kevin Bacon".  
+- "Encuentra el horario de apertura de la tienda".  
+- "Intenta reservar en el establecimiento más cercano a tu ubicación".
+- "Encuentre los ingredientes de la hamburguesa M-30"
   
-- "Encuentra el horario de apertura de la tienda".
-  
-
 
 
 #### 5. Cronograma y Entregables
