@@ -55,8 +55,8 @@ Define a quién vas a reclutar.
   
   
 - **Segmentación:** Usuarios de clase (co-evaluación) vs. usuarios externos.
-  -Usuarios de clase: compañeros que participarán en las pruebas de usabilidad.    
-  -Usuarios externos: personas ajenas a la asignatura, para reducir y/o eliminar algunos sesgos.
+  - Usuarios de clase: compañeros que participarán en las pruebas de usabilidad.
+  - Usuarios externos: personas ajenas a la asignatura, para reducir y/o eliminar algunos sesgos.
 
 
 
