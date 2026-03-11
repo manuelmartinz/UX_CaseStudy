@@ -30,8 +30,8 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 
 - **Experiencia del equipo / justificación**
 
- - Como estudiantes, es nuestra primera experiencia en el diseño y evaluación de un sitio web.  
- - Como observadores nos gustaría encontrar con facilidad la carta , el lugar del local, precios y reservar para no quedarnos sin sitio.  
+  - Como estudiantes, es nuestra primera experiencia en el diseño y evaluación de un sitio web.  
+  - Como observadores nos gustaría encontrar con facilidad la carta , el lugar del local, precios y reservar para no quedarnos sin sitio.  
 
 
 
