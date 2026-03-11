@@ -9,6 +9,7 @@ Documento plantilla, adaptar al contenido que sea necesario.
 <img src="https://img.uxcel.com/cdn-cgi/image/format=auto/practices/user-research-1599142817996/a-1696512677044-2x.jpg" alt="UX Reaearch plan" style="height:250px" />
 
 
+
 ## 1 Descripción 
 
 
