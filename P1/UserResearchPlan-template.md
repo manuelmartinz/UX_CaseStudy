@@ -9,10 +9,7 @@ Documento plantilla, adaptar al contenido que sea necesario.
 <img src="https://img.uxcel.com/cdn-cgi/image/format=auto/practices/user-research-1599142817996/a-1696512677044-2x.jpg" alt="UX Reaearch plan" style="height:250px" />
 
 
-
 ## 1 Descripción 
-
-
 
 Un **UX Research Plan** (Plan de Investigación de Usuario) es el documento estratégico que define los cimientos de cualquier estudio de usabilidad. Es la "hoja de ruta" que explica **qué** quieres aprender, **a quién** se lo vas a preguntar, **cómo** vas a obtener los datos y **cuándo** estarán listos los resultados.
 
