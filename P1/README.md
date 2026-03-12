@@ -21,9 +21,11 @@ Miembros:
 ## :card_file_box: Desk Research
 Hemos seleccionado tres aplicaciones para realizar el *análisis de competencia*:
 
-| **Goiko** | . | . |
-| . | . | . |
-| . | . | . |
+| Hamburguesería | Puntos Fuertes | Puntos Débiles | Puntuación Usabilidad |
+| -------------- | -------------- | -------------- | --------------------- |
+| Goiko          | Atractivo visual| Falta botón volver | 74/100              |
+| Competidor 2   | Dato 2         | Dato 3         | Dato 4                |
+| Competidor 3   | Dato 5         | Dato 6         | Dato 7                |
 
 ## :busts_in_silhouette: [Personas](https://github.com/manuelmartinz/UX_CaseStudy/tree/372ade3395d1e88814abbb6239a608339d11e9f3/P1/Personas)
 
