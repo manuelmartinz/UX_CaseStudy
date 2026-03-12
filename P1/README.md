@@ -34,7 +34,7 @@ Hemos creado estas dos personas totalmente diferentes (tanto física como psicol
 
 - **Rosa Lorite**: Una chica de 18 años, estudiante de medicina de nuevo ingreso en Granada, cuyo sueño es ser neuróloga para encontrar la cura del alzheimer. Busca un lugar donde cenar con sus nuevos compañeros de clase para poder conocerse mejor.
 
-![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/UserJourneyMaps/User%20Journey%20Map%20%231.png)
+![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/Personas/Persona%20%231.png)
 
 - **Manuel Cazorla Chica**: Un padre de 44 años, agricultor. Ha aprovechado el finde de escapada a Granada con su mujer y sus hijos. Es amante de las hamburguesas, y quiere probar locales que le recomendó su hermano que vive en Granada. Busca un lugar donde cenar con su familia y que tenga una carta adaptada a su hijo alérgico a varios productos.
 
