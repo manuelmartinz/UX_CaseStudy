@@ -48,8 +48,8 @@ Para el estudio de una experiencia de nuestras personas ficticias, ambos perfile
 
 ![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/5d070c95245495e8fa814e68bdf37a799aa47fc8/P1/UserJourneyMaps/UserJourneyMap%232.png)
 
-## :pushpin: Usability Review 
-- Enlace: [UsabilityReview](https://github.com/manuelmartinz/UX_CaseStudy/blob/04ca8265feebaeb4df455b5a66a3cad19f09d3d9/P1/UsabilityReview-UsabilityScores.pdf)
+## :pushpin: [Usability Review](https://github.com/manuelmartinz/UX_CaseStudy/blob/04ca8265feebaeb4df455b5a66a3cad19f09d3d9/P1/UsabilityReview-UsabilityScores.pdf)
+
 Como revisión de usabilidad evaluamos diferentes puntos (como la funcionalidad, la búsqueda, la ayuda, etc.) sobre la web de *Goiko* los consigue superar o si son necesarios mejorarlos.
 
 La web recibió una puntuación de 74/100 (Good). En general, la página funciona correctamente y ofrece una experiencia bastante aceptable para los usuarios. Los usuarios pueden completar la mayoría de las tareas importantes, pero la experiencia podría mejorarse especialmente para los novatos.
