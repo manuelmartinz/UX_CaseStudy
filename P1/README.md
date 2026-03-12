@@ -21,7 +21,7 @@ Miembros:
 
 En el UserResearchPlan-template.md de nuestra plantilla de GitHub definiremos cómo se llevará a cabo el estudio de usabilidad. Para ello, identificaremos los objetivos de la investigación, la metodología que se utilizará, quiénes participarán en el estudio y las tareas que deberán realizar. Asimismo, se establecerán los resultados que se esperan obtener del proceso de evaluación.
 
-## :card_file_box: Desk Research
+## :card_file_box: [Desk Research](https://github.com/manuelmartinz/UX_CaseStudy/blob/26ba305024f55a8c32f21ff53903dfea6c3adf38/P1/CompetitorAnalysis.pdf)
 Hemos seleccionado tres aplicaciones para realizar el *análisis de competencia*:
 
 ![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/26ba305024f55a8c32f21ff53903dfea6c3adf38/P1/CompetitorAnalysis.pdf)
