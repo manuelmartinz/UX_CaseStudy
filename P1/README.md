@@ -51,11 +51,20 @@ Para el estudio de una experiencia de nuestras personas ficticias, ambos perfile
 ![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/5d070c95245495e8fa814e68bdf37a799aa47fc8/P1/UserJourneyMaps/UserJourneyMap%232.png)
 
 ## Usability Review
+Como revisión de usabilidad evaluamos diferentes puntos (como la funcionalidad, la búsqueda, la ayuda, etc.) sobre la web de *Goiko* los consigue superar o si son necesarios mejorarlos.
 
+La web recibió una puntuación de 74/100 (Good). En general, la página funciona correctamente y ofrece una experiencia bastante aceptable para los usuarios. Los usuarios pueden completar la mayoría de las tareas importantes, pero la experiencia podría mejorarse especialmente para los novatos.
 
+La ayuda de esta página se encuentra al final con letra pequeña, lo que dificulta a personas que no están acostumbradas a navegar por la red. 
+
+El retorno a la página inicial no puede hacerse desde algunas páginas; no podemos volver hacia atrás a no ser que pulsemos el botón de retorno del navegador.
+
+La carta está en un menú que puede ser difícil de acceder para personas novatas.
+
+Respecto a las funcionalidades, la navegación, el control de errores y el rendimiento, la página cumple con los requisitos.
 
 ## Briefing
-
+Es
 
 
 
