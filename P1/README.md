@@ -17,14 +17,14 @@ Miembros:
 - Usability Review
 - Briefing
 
-## :speech_balloon: User Research
+## :speech_balloon: [User Research](https://github.com/manuelmartinz/UX_CaseStudy/blob/271453cab06679766548e5889288b5acfd430792/P1/UserResearchPlan-template.md)
 
 En el UserResearchPlan-template.md de nuestra plantilla de GitHub definiremos cómo se llevará a cabo el estudio de usabilidad. Para ello, identificaremos los objetivos de la investigación, la metodología que se utilizará, quiénes participarán en el estudio y las tareas que deberán realizar. Asimismo, se establecerán los resultados que se esperan obtener del proceso de evaluación.
 
 ## :card_file_box: Desk Research
 Hemos seleccionado tres aplicaciones para realizar el *análisis de competencia*:
 
-![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/Competitor%20AnalysisDIU.png)
+![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/26ba305024f55a8c32f21ff53903dfea6c3adf38/P1/CompetitorAnalysis.pdf)
 
 Como se puede observar en la tabla, existen diversas mejoras que podrían implementarse en la aplicación de Goiko en comparación con sus competidores. Entre ellas destacan una mejor organización de los contenidos, una mayor visibilidad del menú de navegación, la facilitación de los canales de contacto con el usuario y mejoras en aspectos de accesibilidad y funcionalidad. Por otro lado, la web de Mostaza Green presenta una experiencia de usuario más cuidada, ya que cumple con la mayoría de los criterios analizados. En cambio, la interfaz de Vicio muestra varios aspectos muy susceptibles de mejora.
 
@@ -34,7 +34,7 @@ Hemos creado estas dos personas totalmente diferentes (tanto física como psicol
 
 - **Rosa Lorite**: Una chica de 18 años, estudiante de medicina de nuevo ingreso en Granada, cuyo sueño es ser neuróloga para encontrar la cura del alzheimer. Busca un lugar donde cenar con sus nuevos compañeros de clase para poder conocerse mejor.
 
-![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/Personas/Persona%20%231.png)
+![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/UserJourneyMaps/User%20Journey%20Map%20%231.png)
 
 - **Manuel Cazorla Chica**: Un padre de 44 años, agricultor. Ha aprovechado el finde de escapada a Granada con su mujer y sus hijos. Es amante de las hamburguesas, y quiere probar locales que le recomendó su hermano que vive en Granada. Busca un lugar donde cenar con su familia y que tenga una carta adaptada a su hijo alérgico a varios productos.
 
@@ -70,7 +70,7 @@ La carta está en un menú que puede ser difícil de acceder para personas novat
 
 Respecto a las funcionalidades, la navegación, el control de errores y el rendimiento, la página cumple con los requisitos.
 
-## :memo: Briefing 
+## :memo: [Briefing](https://github.com/manuelmartinz/UX_CaseStudy/blob/a8457d27641b053c3e0de8a4153efa7b4877154d/P1/Briefing.md)
 
 El sitio web de la hamburguesería Goiko presenta una base funcional sólida (como refleja su puntuación de 74/100), pero revela carencias importantes en la accesibilidad y la arquitectura de la información, penalizando la experiencia de usuarios no nativos digitales o con necesidades específicas.
 
