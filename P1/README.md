@@ -8,23 +8,24 @@ Miembros:
 
 # Práctica 1
 - User Research (Plan)
-- Desk Research: Análisis Competencia
+- Desk Research: Análisis de Competencia
 - Personas (2)
 - Experience Journey Map (1 por persona)
 - Usability Review
 - Briefing
 
-## User Research
+## :speech_balloon: User Research
 
 
 
-## Desk Research
+## :card_file_box: Desk Research
 Hemos seleccionado tres aplicaciones para realizar el *análisis de competencia*:
-| . |
-| . |
-| . |
 
-## :busts_in_silhouette: Personas
+| **Goiko** | . | . |
+| . | . | . |
+| . | . | . |
+
+## :busts_in_silhouette: [Personas](https://github.com/manuelmartinz/UX_CaseStudy/tree/372ade3395d1e88814abbb6239a608339d11e9f3/P1/Personas)
 
 Hemos creado estas dos personas totalmente diferentes (tanto física como psicológicamente) para intentar abordar un amplio espectro de tipos de usuario en nuestro contexto de hamburgueserías en Granada:
 
@@ -35,7 +36,7 @@ Hemos creado estas dos personas totalmente diferentes (tanto física como psicol
 ![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/f2c35edb1d1e3630d9d95c97afd340eff31b261d/P1/Personas/Persona%232.png)
 
 
-> 💡 **Por qué los elegimos:** Ambas personas ofrecen perspectivas únicas y valiosas sobre la usabilidad y la experiencia del usuario, cubriendo desde el público joven universitario hasta el turismo familiar con necesidades dietéticas restrictivas.
+> :bulb: **Por qué los elegimos:** Ambas personas ofrecen perspectivas únicas y valiosas sobre la usabilidad y la experiencia del usuario, cubriendo desde el público joven universitario hasta el turismo familiar con necesidades dietéticas restrictivas.
 
 
 ## :chart_with_upwards_trend: Experience Journey Map 
@@ -63,6 +64,7 @@ La carta está en un menú que puede ser difícil de acceder para personas novat
 Respecto a las funcionalidades, la navegación, el control de errores y el rendimiento, la página cumple con los requisitos.
 
 ## :memo: Briefing 
+
 El sitio web de la hamburguesería Goiko presenta una base funcional sólida (como refleja su puntuación de 74/100), pero revela carencias importantes en la accesibilidad y la arquitectura de la información, penalizando la experiencia de usuarios no nativos digitales o con necesidades específicas.
 
 Para abordar esto, nuestro proyecto se centrará en los siguientes puntos clave:
