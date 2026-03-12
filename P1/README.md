@@ -24,7 +24,7 @@ En el UserResearchPlan-template.md de nuestra plantilla de GitHub definiremos c�
 ## :card_file_box: Desk Research
 Hemos seleccionado tres aplicaciones para realizar el *análisis de competencia*:
 
-![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D%20(Copy)%20(copia).pdf)
+![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/Competitor%20AnalysisDIU.png)
 
 Como se puede observar en la tabla, existen diversas mejoras que podrían implementarse en la aplicación de Goiko en comparación con sus competidores. Entre ellas destacan una mejor organización de los contenidos, una mayor visibilidad del menú de navegación, la facilitación de los canales de contacto con el usuario y mejoras en aspectos de accesibilidad y funcionalidad. Por otro lado, la web de Mostaza Green presenta una experiencia de usuario más cuidada, ya que cumple con la mayoría de los criterios analizados. En cambio, la interfaz de Vicio muestra varios aspectos muy susceptibles de mejora.
 
