@@ -19,16 +19,12 @@ Miembros:
 
 ## :speech_balloon: User Research
 
-
+En el UserResearchPlan-template.md de nuestra plantilla de GitHub definiremos cómo se llevará a cabo el estudio de usabilidad. Para ello, identificaremos los objetivos de la investigación, la metodología que se utilizará, quiénes participarán en el estudio y las tareas que deberán realizar. Asimismo, se establecerán los resultados que se esperan obtener del proceso de evaluación.
 
 ## :card_file_box: Desk Research
 Hemos seleccionado tres aplicaciones para realizar el *análisis de competencia*:
 
-| Hamburguesería | Puntos Fuertes | Puntos Débiles | Puntuación Usabilidad |
-| -------------- | -------------- | -------------- | --------------------- |
-| Goiko          | Atractivo visual| Falta botón volver | 74/100              |
-| Competidor 2   | Dato 2         | Dato 3         | Dato 4                |
-| Competidor 3   | Dato 5         | Dato 6         | Dato 7                |
+Como se puede observar en la tabla, existen diversas mejoras que podrían implementarse en la aplicación de Goiko en comparación con sus competidores. Entre ellas destacan una mejor organización de los contenidos, una mayor visibilidad del menú de navegación, la facilitación de los canales de contacto con el usuario y mejoras en aspectos de accesibilidad y funcionalidad. Por otro lado, la web de Mostaza Green presenta una experiencia de usuario más cuidada, ya que cumple con la mayoría de los criterios analizados. En cambio, la interfaz de Vicio muestra varios aspectos muy susceptibles de mejora.
 
 ## :busts_in_silhouette: [Personas](https://github.com/manuelmartinz/UX_CaseStudy/tree/372ade3395d1e88814abbb6239a608339d11e9f3/P1/Personas)
 
