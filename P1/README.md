@@ -6,7 +6,7 @@ Miembros:
 
    - **Tema**: Hamburguesas
 
-#### [Enlace Repositorio](https://github.com/manuelmartinz/UX_CaseStudy.git)
+#### [Enlace Repositorio](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/CompetitorAnalysis.pdf)
 
 
 # Práctica 1
