@@ -44,7 +44,7 @@ Hemos creado estas dos personas totalmente diferentes (tanto física como psicol
 > :bulb: **Por qué los elegimos:** Ambas personas ofrecen perspectivas únicas y valiosas sobre la usabilidad y la experiencia del usuario, cubriendo desde el público joven universitario hasta el turismo familiar con necesidades dietéticas restrictivas.
 
 
-## :chart_with_upwards_trend: Experience Journey Map 
+## :chart_with_upwards_trend: [Experience Journey Map](https://github.com/manuelmartinz/UX_CaseStudy/tree/235fc83908354356e4bb2da82916a431cc63686d/P1/UserJourneyMaps)
 
 Para el estudio de una experiencia de nuestras personas ficticias, ambos perfiles destacan la importancia de una plataforma web accesible y fácil de usar para reservar mesa en una hamburguesería granaína. Pero viendo sus casos de estudio comtemplamos lo siguiente:
 
