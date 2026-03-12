@@ -4,9 +4,9 @@ Miembros:
 - Manuel Martínez Herrera (subgrupo 3)  :octocat:
 - Lola Lorite Díaz (subgrupo 1)  :octocat:
 
-#### [Repositorio Github](https://github.com/manuelmartinz/UX_CaseStudy.git)
+#### [Enlace Repositorio](https://github.com/manuelmartinz/UX_CaseStudy.git)
 
-  - **Tema**: Hamburguesas
+   - **Tema**: Hamburguesas
 
 # Práctica 1
 - User Research (Plan)
