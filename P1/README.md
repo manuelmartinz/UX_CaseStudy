@@ -6,7 +6,7 @@ Miembros:
 
    - **Tema**: Hamburguesas
 
-#### [Enlace Repositorio](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/CompetitorAnalysis.pdf)
+#### [Enlace Repositorio](https://github.com/manuelmartinz/UX_CaseStudy)
 
 
 # Práctica 1
@@ -21,10 +21,10 @@ Miembros:
 
 En el UserResearchPlan-template.md de nuestra plantilla de GitHub definiremos cómo se llevará a cabo el estudio de usabilidad. Para ello, identificaremos los objetivos de la investigación, la metodología que se utilizará, quiénes participarán en el estudio y las tareas que deberán realizar. Asimismo, se establecerán los resultados que se esperan obtener del proceso de evaluación.
 
-## :card_file_box: [Desk Research](https://github.com/manuelmartinz/UX_CaseStudy/blob/26ba305024f55a8c32f21ff53903dfea6c3adf38/P1/CompetitorAnalysis.pdf)
+## :card_file_box: [Desk Research](https://github.com/manuelmartinz/UX_CaseStudy/blob/6f508abd38eb20fe5c45e6b8d3b73bab205b7a1a/P1/Competitor%20AnalysisDIU.png)
 Hemos seleccionado tres aplicaciones para realizar el *análisis de competencia*:
 
-![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/26ba305024f55a8c32f21ff53903dfea6c3adf38/P1/CompetitorAnalysis.pdf)
+![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/6f508abd38eb20fe5c45e6b8d3b73bab205b7a1a/P1/Competitor%20AnalysisDIU.png)
 
 Como se puede observar en la tabla, existen diversas mejoras que podrían implementarse en la aplicación de Goiko en comparación con sus competidores. Entre ellas destacan una mejor organización de los contenidos, una mayor visibilidad del menú de navegación, la facilitación de los canales de contacto con el usuario y mejoras en aspectos de accesibilidad y funcionalidad. Por otro lado, la web de Mostaza Green presenta una experiencia de usuario más cuidada, ya que cumple con la mayoría de los criterios analizados. En cambio, la interfaz de Vicio muestra varios aspectos muy susceptibles de mejora.
 
