@@ -24,7 +24,7 @@ En el UserResearchPlan-template.md de nuestra plantilla de GitHub definiremos c�
 ## :card_file_box: Desk Research
 Hemos seleccionado tres aplicaciones para realizar el *análisis de competencia*:
 
-[!AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D%20(Copy)%20(copia).pdf)
+![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D%20(Copy)%20(copia).pdf)
 
 Como se puede observar en la tabla, existen diversas mejoras que podrían implementarse en la aplicación de Goiko en comparación con sus competidores. Entre ellas destacan una mejor organización de los contenidos, una mayor visibilidad del menú de navegación, la facilitación de los canales de contacto con el usuario y mejoras en aspectos de accesibilidad y funcionalidad. Por otro lado, la web de Mostaza Green presenta una experiencia de usuario más cuidada, ya que cumple con la mayoría de los criterios analizados. En cambio, la interfaz de Vicio muestra varios aspectos muy susceptibles de mejora.
 
@@ -33,6 +33,8 @@ Como se puede observar en la tabla, existen diversas mejoras que podrían implem
 Hemos creado estas dos personas totalmente diferentes (tanto física como psicológicamente) para intentar abordar un amplio espectro de tipos de usuario en nuestro contexto de hamburgueserías en Granada:
 
 - **Rosa Lorite**: Una chica de 18 años, estudiante de medicina de nuevo ingreso en Granada, cuyo sueño es ser neuróloga para encontrar la cura del alzheimer. Busca un lugar donde cenar con sus nuevos compañeros de clase para poder conocerse mejor.
+
+![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/UserJourneyMaps/User%20Journey%20Map%20%231.png)
 
 - **Manuel Cazorla Chica**: Un padre de 44 años, agricultor. Ha aprovechado el finde de escapada a Granada con su mujer y sus hijos. Es amante de las hamburguesas, y quiere probar locales que le recomendó su hermano que vive en Granada. Busca un lugar donde cenar con su familia y que tenga una carta adaptada a su hijo alérgico a varios productos.
 
