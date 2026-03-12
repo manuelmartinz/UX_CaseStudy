@@ -50,7 +50,7 @@ Para el estudio de una experiencia de nuestras personas ficticias, ambos perfile
 
 - **Rosa Lorite**: Rosa quiere organizar una cena con sus compañeros de la facultad y busca una hamburguesería cercana. Al encontrar Goiko, entra en su web para consultar el menú, ver los precios y localizar el restaurante.
 
-![Rosa]()
+![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P1/UserJourneyMaps/User%20Journey%20Map%20%231.png)
 
 - **Manuel Cazorla Chica**: Busca por la red lugares donde poder comer hamburguesas en Granada. Tras scrollear un rato reconoce el nombre de *Goiko*. Entra en la web, y le da buena impresión, así que decide buscar la carta de alérgenos para su hijo. Tarda en encontrarla, pues, no es muy hábil con las tecnologías. Al ver que tiene gran variedad de hamburguesas para alérgicos, decide reservar mesa en el local.
 
