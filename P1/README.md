@@ -21,10 +21,10 @@ Miembros:
 
 En el UserResearchPlan-template.md de nuestra plantilla de GitHub definiremos cómo se llevará a cabo el estudio de usabilidad. Para ello, identificaremos los objetivos de la investigación, la metodología que se utilizará, quiénes participarán en el estudio y las tareas que deberán realizar. Asimismo, se establecerán los resultados que se esperan obtener del proceso de evaluación.
 
-## :card_file_box: [Desk Research](https://github.com/manuelmartinz/UX_CaseStudy/blob/6f508abd38eb20fe5c45e6b8d3b73bab205b7a1a/P1/Competitor%20AnalysisDIU.png)
+## :card_file_box: [Desk Research](https://github.com/manuelmartinz/UX_CaseStudy/blob/7abf9e31704d474f033a01ee4912dadeea2c94c8/P1/CompetitorAnalysis.png)
 Hemos seleccionado tres aplicaciones para realizar el *análisis de competencia*:
 
-![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/6f508abd38eb20fe5c45e6b8d3b73bab205b7a1a/P1/Competitor%20AnalysisDIU.png)
+![AnaComp](https://github.com/manuelmartinz/UX_CaseStudy/blob/7abf9e31704d474f033a01ee4912dadeea2c94c8/P1/CompetitorAnalysis.png)
 
 Como se puede observar en la tabla, existen diversas mejoras que podrían implementarse en la aplicación de Goiko en comparación con sus competidores. Entre ellas destacan una mejor organización de los contenidos, una mayor visibilidad del menú de navegación, la facilitación de los canales de contacto con el usuario y mejoras en aspectos de accesibilidad y funcionalidad. Por otro lado, la web de Mostaza Green presenta una experiencia de usuario más cuidada, ya que cumple con la mayoría de los criterios analizados. En cambio, la interfaz de Vicio muestra varios aspectos muy susceptibles de mejora.
 
@@ -38,7 +38,7 @@ Hemos creado estas dos personas totalmente diferentes (tanto física como psicol
 
 - **Manuel Cazorla Chica**: Un padre de 44 años, agricultor. Ha aprovechado el finde de escapada a Granada con su mujer y sus hijos. Es amante de las hamburguesas, y quiere probar locales que le recomendó su hermano que vive en Granada. Busca un lugar donde cenar con su familia y que tenga una carta adaptada a su hijo alérgico a varios productos.
 
-![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/f2c35edb1d1e3630d9d95c97afd340eff31b261d/P1/Personas/Persona%232.png)
+![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/7abf9e31704d474f033a01ee4912dadeea2c94c8/P1/Personas/Persona%20%232.png)
 
 
 > :bulb: **Por qué los elegimos:** Ambas personas ofrecen perspectivas únicas y valiosas sobre la usabilidad y la experiencia del usuario, cubriendo desde el público joven universitario hasta el turismo familiar con necesidades dietéticas restrictivas.
@@ -54,7 +54,7 @@ Para el estudio de una experiencia de nuestras personas ficticias, ambos perfile
 
 - **Manuel Cazorla Chica**: Busca por la red lugares donde poder comer hamburguesas en Granada. Tras scrollear un rato reconoce el nombre de *Goiko*. Entra en la web, y le da buena impresión, así que decide buscar la carta de alérgenos para su hijo. Tarda en encontrarla, pues, no es muy hábil con las tecnologías. Al ver que tiene gran variedad de hamburguesas para alérgicos, decide reservar mesa en el local.
 
-![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/5d070c95245495e8fa814e68bdf37a799aa47fc8/P1/UserJourneyMaps/UserJourneyMap%232.png)
+![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/7abf9e31704d474f033a01ee4912dadeea2c94c8/P1/UserJourneyMaps/UserJourneyMap%20%232.png)
 
 ## :pushpin: [Usability Review](https://github.com/manuelmartinz/UX_CaseStudy/blob/04ca8265feebaeb4df455b5a66a3cad19f09d3d9/P1/UsabilityReview-UsabilityScores.pdf)
 
