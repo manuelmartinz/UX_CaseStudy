@@ -1,5 +1,5 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: Hamburguesas ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Sabores con encanto (Fast Food experience) ) 
 
 * [Guiones de prácticas](GuionesPracticas/)
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
