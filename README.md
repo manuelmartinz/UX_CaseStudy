@@ -51,8 +51,6 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a [User Reseach Plan](https://github.com/manuelmartinz/UX_CaseStudy/blob/271453cab06679766548e5889288b5acfd430792/P1/UserResearchPlan-template.md)
 ![Método UX](img/Competitive.png) 
@@ -75,9 +73,11 @@ Existen diversas mejoras que podrían implementarse en la aplicación de Goiko e
 Hemos creado estas dos personas totalmente diferentes (tanto física como psicológicamente) para intentar abordar un amplio espectro de tipos de usuario en nuestro contexto de hamburgueserías en Granada:
 
 - Rosa:
+
 ![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/473ecde63514893c2694c6faec20b3ffa2d50b17/P1/Personas/Persona%20%231.png)
 
 - Manuel:
+
 ![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/372ade3395d1e88814abbb6239a608339d11e9f3/P1/Personas/Persona%232.png)
 
 
@@ -90,6 +90,7 @@ Para el estudio de una experiencia de nuestras personas ficticias, ambos perfile
 - Rosa:
 
 ![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/9c42f5ee4541ae25fd775fcff9499f221eda764f/P1/UserJourneyMaps/User%20Journey%20Map%20%231.png)
+
 
 - Manuel:
 
