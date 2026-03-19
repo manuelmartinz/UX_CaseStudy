@@ -55,46 +55,62 @@ Miembros y nombre del equipo:
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
-### 1.a User Reseach Plan
+### 1.a [User Reseach Plan](https://github.com/manuelmartinz/UX_CaseStudy/blob/271453cab06679766548e5889288b5acfd430792/P1/UserResearchPlan-template.md)
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+En el UserResearchPlan-template.md de nuestra plantilla de GitHub definiremos cómo se llevará a cabo el estudio de usabilidad. Para ello, identificaremos los objetivos de la investigación, la metodología que se utilizará, quiénes participarán en el estudio y las tareas que deberán realizar. Asimismo, se establecerán los resultados que se esperan obtener del proceso de evaluación.
 
-
-### 1.b Competitive Analysis
+### 1.b [Competitive Analysis](https://github.com/manuelmartinz/UX_CaseStudy/blob/7abf9e31704d474f033a01ee4912dadeea2c94c8/P1/CompetitorAnalysis.png)
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Existen diversas mejoras que podrían implementarse en la aplicación de Goiko en comparación con sus competidores. Entre ellas destacan una mejor organización de los contenidos, una mayor visibilidad del menú de navegación, la facilitación de los canales de contacto con el usuario y mejoras en aspectos de accesibilidad y funcionalidad. Por otro lado, la web de Mostaza Green presenta una experiencia de usuario más cuidada:
+![imagen](https://github.com/manuelmartinz/UX_CaseStudy/blob/7abf9e31704d474f033a01ee4912dadeea2c94c8/P1/CompetitorAnalysis.png)
 
 
-### 1.c Personas
+### 1.c [Personas](https://github.com/manuelmartinz/UX_CaseStudy/tree/372ade3395d1e88814abbb6239a608339d11e9f3/P1/Personas)
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Hemos creado estas dos personas totalmente diferentes (tanto física como psicológicamente) para intentar abordar un amplio espectro de tipos de usuario en nuestro contexto de hamburgueserías en Granada:
+
+- Rosa:
+![Rosa]()
+
+- Manuel:
+![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/372ade3395d1e88814abbb6239a608339d11e9f3/P1/Personas/Persona%232.png)
 
 
-### 1.d User Journey Map
+### 1.d [User Journey Map](https://github.com/manuelmartinz/UX_CaseStudy/tree/7abf9e31704d474f033a01ee4912dadeea2c94c8/P1/UserJourneyMaps)
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Para el estudio de una experiencia de nuestras personas ficticias, ambos perfiles destacan la importancia de una plataforma web accesible y fácil de usar para reservar mesa en una hamburguesería granaína. Pero viendo sus casos de estudio comtemplamos lo siguiente:
+- Rosa:
+![Rosa]()
+
+- Manuel:
+![Manuel]()
 
 
-### 1.e Usability Review
+### 1.e [Usability Review](https://github.com/manuelmartinz/UX_CaseStudy/blob/7abf9e31704d474f033a01ee4912dadeea2c94c8/P1/UsabilityReview-UsabilityScores.pdf)
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+La web recibió una puntuación de 74/100 (Good). En general, la página funciona correctamente y ofrece una experiencia bastante aceptable para los usuarios. Los usuarios pueden completar la mayoría de las tareas importantes, pero la experiencia podría mejorarse especialmente para los novatos.
+
+La ayuda de esta página se encuentra al final con letra pequeña, lo que dificulta a personas que no están acostumbradas a navegar por la red.
+
+El retorno a la página inicial no puede hacerse desde algunas páginas; no podemos volver hacia atrás a no ser que pulsemos el botón de retorno del navegador.
+
+La carta está en un menú que puede ser difícil de acceder para personas novatas.
+
+Respecto a las funcionalidades, la navegación, el control de errores y el rendimiento, la página cumple con los requisitos.
 
 <br>
 
-## Paso 2. UX Design  
+## Paso 2. UX Design
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
