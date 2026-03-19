@@ -33,11 +33,10 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  [Lola Lorite Díaz](https://github.com/lolaloritediaz)     :octocat:     
+ * :bust_in_silhouette:  [Manuel Martínez Herrera](https://github.com/manuelmartinz)     :octocat:
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
+ * CMU Isabel
 ----- 
 
 <br>
@@ -76,7 +75,7 @@ Existen diversas mejoras que podrían implementarse en la aplicación de Goiko e
 Hemos creado estas dos personas totalmente diferentes (tanto física como psicológicamente) para intentar abordar un amplio espectro de tipos de usuario en nuestro contexto de hamburgueserías en Granada:
 
 - Rosa:
-![Rosa]()
+![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/473ecde63514893c2694c6faec20b3ffa2d50b17/P1/Personas/Persona%20%231.png)
 
 - Manuel:
 ![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/372ade3395d1e88814abbb6239a608339d11e9f3/P1/Personas/Persona%232.png)
@@ -87,11 +86,14 @@ Hemos creado estas dos personas totalmente diferentes (tanto física como psicol
 ----
 
 Para el estudio de una experiencia de nuestras personas ficticias, ambos perfiles destacan la importancia de una plataforma web accesible y fácil de usar para reservar mesa en una hamburguesería granaína. Pero viendo sus casos de estudio comtemplamos lo siguiente:
+
 - Rosa:
-![Rosa]()
+
+![Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/9c42f5ee4541ae25fd775fcff9499f221eda764f/P1/UserJourneyMaps/User%20Journey%20Map%20%231.png)
 
 - Manuel:
-![Manuel]()
+
+![Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/9c42f5ee4541ae25fd775fcff9499f221eda764f/P1/UserJourneyMaps/UserJourneyMap%20%232.png)
 
 
 ### 1.e [Usability Review](https://github.com/manuelmartinz/UX_CaseStudy/blob/7abf9e31704d474f033a01ee4912dadeea2c94c8/P1/UsabilityReview-UsabilityScores.pdf)
