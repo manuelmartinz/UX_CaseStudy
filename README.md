@@ -124,9 +124,9 @@ Respecto a las funcionalidades, la navegación, el control de errores y el rendi
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+ ![Ideación](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Manuel.jpg)
+ ![Ideación](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Rosa.png)
+ 
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
