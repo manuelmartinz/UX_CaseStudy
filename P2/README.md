@@ -7,7 +7,7 @@
 
 
 ### PROPUESTA DE VALOR
-![ScopeCanvas](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Scope%20Canvas.png)
+![ScopeCanvas](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Scope%20Canvas.png)
 
 
 ### TASK ANALYSIS
