@@ -137,6 +137,8 @@ Respecto a las funcionalidades, la navegación, el control de errores y el rendi
 ![Método UX](img/ScopeCanvas.png)
 ----
 
+![ScopeCanvas](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Scope%20Canvas.png)
+
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
@@ -146,12 +148,17 @@ Respecto a las funcionalidades, la navegación, el control de errores y el rendi
 ![Método UX](img/Sitemap.png) 
 -----
 
+![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/carta.jpg)
+![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/propuesta.jpg)
+
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+
+![SiteMap](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/sitemap.png)
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
