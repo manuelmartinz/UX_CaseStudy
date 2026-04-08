@@ -7,18 +7,19 @@
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+![ScopeCanvas](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Scope%20Canvas.png)
 
 
 ### TASK ANALYSIS
 
 * User Task Matrix 
-* User/Task flow
+![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/carta.jpg)
+![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/propuesta.jpg)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+![SiteMap](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/sitemap.png)
 * Labelling 
 
 
