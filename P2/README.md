@@ -2,7 +2,11 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
+Para idear como podríamos reconvertir la página web, vamos a hacer uso de distinas herramientas. Para Rosa Lorite hemos diseñado el siguiente Mapa de Empatía:
+![Mapa de Empatía Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/dde7c923f4d0f2ed80d9c485f28dfeafcb42c690/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Rosa.png)
+
+Para Manuel Cazorla hemos realizado otro Mapa de Empatía:
+![Mapa de Empatía Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/dde7c923f4d0f2ed80d9c485f28dfeafcb42c690/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Manuel.jpg)
 * Point of View 
 
 
