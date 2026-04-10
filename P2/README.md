@@ -10,6 +10,10 @@ Para idear como podríamos reconvertir la página web, vamos a hacer uso de dist
 * Para Manuel Cazorla hemos realizado otro Mapa de Empatía:
 ![Mapa de Empatía Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/dde7c923f4d0f2ed80d9c485f28dfeafcb42c690/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Manuel.jpg)
 
+### Feedback Capture Grid
+Para remarcar los aspectos más importantes, recurrimos a un Feedback Capture Grid:
+![feedback capture grid](https://github.com/manuelmartinz/UX_CaseStudy/blob/7cb802121c91ac4b98e31929ea6202349efb77ab/P2/Feeback%20capture%20grid.png)
+
 
 * Point of View 
 
