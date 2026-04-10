@@ -36,7 +36,7 @@ Hemos recopilado las funcionalidades más críticas para realizar nuestro análi
 * **Usuario nuevo:** Alguien que descubre Goiko por primera vez. Necesita información y confianza. Quiere conocer dónde se encuentra, además de sus precios y servicios.
 * **Usuario alérgico:** Su navegación es preventiva. El filtrado de ingredientes es su tarea primaria; si no confía en la información de alérgenos, abandonará la plataforma.
 
-> **UX Insight:** Esta matriz justifica la arquitectura de información de nuestro prototipo, priorizando el acceso directo a los **Filtros** y a los botones de **Reserva/Pedido** en la zona superior de la interfaz (Header).
+> Esta matriz justifica la arquitectura de información de nuestro prototipo, priorizando el acceso directo a los **Filtros** y a los botones de **Reserva/Pedido** en la zona superior de la interfaz (Header).
 
 ## User Task Matrix
 A continuación, podemos observar los distintos Task Flows:
