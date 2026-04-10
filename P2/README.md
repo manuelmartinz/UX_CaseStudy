@@ -16,8 +16,37 @@ Para Manuel Cazorla hemos realizado otro Mapa de Empatía:
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+## User Task Matrix
+
+Hemos recopilado las funcionalidades más críticas para realizar nuestro análisis de tareas basándonos en el **Task Analysis**.
+
+| Tarea | Cliente frecuente | Usuario nuevo | Usuario alérgico |
+| :--- | :---: | :---: | :---: |
+| **Reservar de forma rápida** | **ALTA** | Media | Media |
+| **Realizar pedido** | **ALTA** | Media | Media |
+| **Consultar carta y precios** | Media | **ALTA** | **ALTA** |
+| **Consultar y filtrar alérgenos** | Media | Media | **ALTA** |
+| **Encontrar localización** | Baja | **ALTA** | Media |
+
+---
+
+### Perfiles
+
+* **Cliente frecuente:** Usuario que ya conoce la marca y el producto. No necesita explorar, busca eficiencia. Desea realizar su pedido en el menos tiempo posible y asegurar su mesa sin complicaciones.
+* **Usuario nuevo:** Alguien que descubre Goiko por primera vez. Necesita información y confianza. Quiere conocer dónde se encuentra, además de sus precios y servicios.
+* **Usuario alérgico:** Su navegación es preventiva. El filtrado de ingredientes es su tarea primaria; si no confía en la información de alérgenos, abandonará la plataforma.
+
+> **UX Insight:** Esta matriz justifica la arquitectura de información de nuestro prototipo, priorizando el acceso directo a los **Filtros** y a los botones de **Reserva/Pedido** en la zona superior de la interfaz (Header).
+
+## User Task Matrix
+A continuación, podemos observar los distintos Task Flows:
+
+- **Task Flow 1:** Acceso y Consulta de la Carta
+Este flujo describe los pasos que realiza el usuario desde que entra en la página hasta que visualiza los productos. 
 ![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/carta.jpg)
+
+- **Task Flow 2:** Creación de hamburguesa
+Este flujo describe los pasos que realiza el usuario para crear una hamburguesa para el concurso *"Crea Sabores con Encanto"* de nuestra propuesta de valor.
 ![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/propuesta.jpg)
 
 
