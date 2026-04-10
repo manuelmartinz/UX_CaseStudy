@@ -1,12 +1,16 @@
 ## DIU - Practica2, entregables
 
 ## Ideación 
-* Malla receptora de información 
-Para idear como podríamos reconvertir la página web, vamos a hacer uso de distinas herramientas. Para Rosa Lorite hemos diseñado el siguiente Mapa de Empatía:
+### Malla receptora de información 
+Para idear como podríamos reconvertir la página web, vamos a hacer uso de distinas herramientas.
+
+* Para Rosa Lorite hemos diseñado el siguiente Mapa de Empatía:
 ![Mapa de Empatía Rosa](https://github.com/manuelmartinz/UX_CaseStudy/blob/dde7c923f4d0f2ed80d9c485f28dfeafcb42c690/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Rosa.png)
 
-Para Manuel Cazorla hemos realizado otro Mapa de Empatía:
+* Para Manuel Cazorla hemos realizado otro Mapa de Empatía:
 ![Mapa de Empatía Manuel](https://github.com/manuelmartinz/UX_CaseStudy/blob/dde7c923f4d0f2ed80d9c485f28dfeafcb42c690/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Manuel.jpg)
+
+
 * Point of View 
 
 
@@ -61,16 +65,17 @@ A continuación se detallan las secciones y pantallas extraídas del Sitemap, de
 | Etiqueta | Descripción |
 | :--- | :--- |
 | **Página de Inicio** | Nodo central con accesos directos a todas las funcionalidades. |
-| **Iniciar Sesión / Registro** | Gestión de acceso de usuarios y creación de nuevas cuentas. |
-| **Reservar mesa** | Selección de ciudad, restaurante, nº de personas, hora y confirmación para reservar mesa en un local. |
+| **Iniciar Sesión** | Gestión de acceso de usuarios ya existentes. |
+| **Registro** | Gestión de acceso de nuevos usuarios. |
+| **Reservar mesa** | Página donde se accede para reservar mesa. Se pide seleccionar la ciudad, el restaurante de esa ciudad (si hay más de uno), el número de personas y el teléfono. |
 | **Reserva confirmada** | Pantalla de éxito tras finalizar el proceso de reserva de mesa. |
 | **Carta** | Punto de acceso categorizado por Filtros de alérgenos, Entrantes, Hamburguesas y Postres. |
 | **Categorías (Entrantes/Burguers/Postres)** | Pantallas específicas con el listado de productos y rejilla de imágenes de cada categoría. |
 | **Sobre nosotros** | Información corporativa: contacto, preguntas frecuentes (FAQ) y localizador de tiendas. |
 | **Crea sabores con encanto** | Página inicial dedicada al concurso, con información y acceso a la participación. |
 | **Configuración hamburguesa** | Interfaz interactiva para la selección de productos y personalización de ingredientes. |
-| **Galería** | Visualización de creaciones y fotos de la comunidad o del catálogo premium. |
-| **Hacer pedido** | Selección del método de entrega: "Recoger en casa" (Delivery) o "Recoger en local". |
+| **Galería** | Visualización de creaciones y fotos de la comunidad. Área donde se pueden votar las propuestas para el concurso del mes. |
+| **Hacer pedido** | Página para realizar un pedido en el que elegimos el método de entrega: "Recoger en casa" o "Recoger en local". |
 | **Pago** | Pasarela de pago para introducir métodos de cobro (VISA, etc.) y procesar la transacción. |
 | **Pedido confirmado** | Pantalla final con el resumen del pedido y confirmación de recepción del pago. |
 | **Mi Goiko (Perfil)** | Área personal del usuario: gestión de cuenta, historial de reservas, pedidos, descuentos y creaciones. |
