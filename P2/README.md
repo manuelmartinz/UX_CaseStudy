@@ -30,7 +30,7 @@ Hemos recopilado las funcionalidades más críticas para realizar nuestro análi
 
 ---
 
-### Perfiles :busts_in_silhouette:
+#### Perfiles :busts_in_silhouette:
 
 * **Cliente frecuente:** Usuario que ya conoce la marca y el producto. No necesita explorar, busca eficiencia. Desea realizar su pedido en el menos tiempo posible y asegurar su mesa sin complicaciones.
 * **Usuario nuevo:** Alguien que descubre Goiko por primera vez. Necesita información y confianza. Quiere conocer dónde se encuentra, además de sus precios y servicios.
@@ -38,23 +38,42 @@ Hemos recopilado las funcionalidades más críticas para realizar nuestro análi
 
 > Esta matriz justifica la arquitectura de información de nuestro prototipo, priorizando el acceso directo a los **Filtros** y a los botones de **Reserva/Pedido** en la zona superior de la interfaz (Header).
 
-#### Task Flow
+### Task Flow
 A continuación, podemos observar los distintos Task Flows:
 
 - **Task Flow 1:** Acceso y Consulta de la Carta
-Este flujo describe los pasos que realiza el usuario desde que entra en la página hasta que visualiza los productos. 
+Este flujo describe los pasos que realiza el usuario desde que entra en la página hasta que visualiza los productos de la carta. Para ello, el usuario tendrá que pulsar el botón en el que pone *"Carta"* en la página de inicio. Después, el cliente tendrá que elegir entre las opciones: *Entrantes, Hamburguesas* y *Postres*. Una vez dentro podremos elegir los filtros para los alérgenos.
 ![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/carta.jpg)
 
 - **Task Flow 2:** Creación de hamburguesa
-Este flujo describe los pasos que realiza el usuario para crear una hamburguesa para el concurso *"Crea Sabores con Encanto"* de nuestra propuesta de valor.
+Este flujo describe los pasos que realiza el usuario para crear una hamburguesa para el concurso *"Crea Sabores con Encanto"* de nuestra propuesta de valor. Para ello, el usuario accederá a la página del concurso desde la página inicio. El cliente tendrá que configurar su hamburguesa, seleccionando los ingredientes y eligiendo el nombre. Una vez configurada, tendrá que iniciar sesión para que su hamburguesa sea propuesta en la galería de hamburguesas.
 ![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/propuesta.jpg)
 
 
 ## ARQUITECTURA DE INFORMACIÓN
-
+### SiteMap
+Nuestro SiteMap para la navegación de la nueva página de Goiko sería el siguiente:
 ![SiteMap](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/sitemap.png)
-* Labelling 
 
+### Labelling
+A continuación se detallan las secciones y pantallas extraídas del Sitemap, definiendo el alcance de cada una para el desarrollo del proyecto.
+
+| Etiqueta | Descripción |
+| :--- | :--- |
+| **Página de Inicio** | Nodo central con accesos directos a todas las funcionalidades. |
+| **Iniciar Sesión / Registro** | Gestión de acceso de usuarios y creación de nuevas cuentas. |
+| **Reservar mesa** | Selección de ciudad, restaurante, nº de personas, hora y confirmación para reservar mesa en un local. |
+| **Reserva confirmada** | Pantalla de éxito tras finalizar el proceso de reserva de mesa. |
+| **Carta** | Punto de acceso categorizado por Filtros de alérgenos, Entrantes, Hamburguesas y Postres. |
+| **Categorías (Entrantes/Burguers/Postres)** | Pantallas específicas con el listado de productos y rejilla de imágenes de cada categoría. |
+| **Sobre nosotros** | Información corporativa: contacto, preguntas frecuentes (FAQ) y localizador de tiendas. |
+| **Crea sabores con encanto** | Página inicial dedicada al concurso, con información y acceso a la participación. |
+| **Configuración hamburguesa** | Interfaz interactiva para la selección de productos y personalización de ingredientes. |
+| **Galería** | Visualización de creaciones y fotos de la comunidad o del catálogo premium. |
+| **Hacer pedido** | Selección del método de entrega: "Recoger en casa" (Delivery) o "Recoger en local". |
+| **Pago** | Pasarela de pago para introducir métodos de cobro (VISA, etc.) y procesar la transacción. |
+| **Pedido confirmado** | Pantalla final con el resumen del pedido y confirmación de recepción del pago. |
+| **Mi Goiko (Perfil)** | Área personal del usuario: gestión de cuenta, historial de reservas, pedidos, descuentos y creaciones. |
 
 ## Prototipo Lo-FI Wireframe 
 
