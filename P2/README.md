@@ -38,7 +38,7 @@ Hemos recopilado las funcionalidades más críticas para realizar nuestro análi
 
 > Esta matriz justifica la arquitectura de información de nuestro prototipo, priorizando el acceso directo a los **Filtros** y a los botones de **Reserva/Pedido** en la zona superior de la interfaz (Header).
 
-## User Task Matrix
+#### Task Flow
 A continuación, podemos observar los distintos Task Flows:
 
 - **Task Flow 1:** Acceso y Consulta de la Carta
