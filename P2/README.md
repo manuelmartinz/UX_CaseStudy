@@ -94,9 +94,14 @@ A continuación se detallan las secciones y pantallas extraídas del Sitemap, de
 ![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/homepage.png)
 
 
-## Conclusiones  
-(incluye valoración de esta etapa)
+## Conclusiones 
 
+En esta práctica hemos desarrollado una propuesta de valor centrada en el usuario, siguiendo los principios del diseño centrado en la experiencia. Para ello, ha sido necesario empatizar con el usuario final y analizar la web de partida, identificando sus principales carencias y problemas de usabilidad con el objetivo de plantear mejoras.
+
+La propuesta de valor se basa en dos aspectos fundamentales. Por un lado, acercar la información al usuario, facilitando el acceso a datos relevantes como precios y alérgenos de cada plato. Por otro, fomentar la interacción mediante la incorporación de un sistema de concurso, con el fin de aumentar la participación y el compromiso del usuario con la plataforma.
+
+
+La práctica ha resultado útil para comprender la importancia del diseño centrado en el usuario y su impacto en la experiencia final. Se ha podido observar cómo una correcta fase de ideación y análisis influye directamente en la calidad del prototipo. El uso de herramientas como Figma ha permitido materializar las ideas de forma visual, reforzando la capacidad de diseñar interfaces intuitivas y orientadas a las necesidades reales de los usuarios.
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
