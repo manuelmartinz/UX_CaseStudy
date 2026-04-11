@@ -171,6 +171,15 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta_filtros.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb1.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb2.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa1.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa2.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/homepage.png)
+
+
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
 <br>
