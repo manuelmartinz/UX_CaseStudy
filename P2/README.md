@@ -85,6 +85,13 @@ A continuación se detallan las secciones y pantallas extraídas del Sitemap, de
 | **Mi Goiko (Perfil)** | Área personal del usuario: gestión de cuenta, historial de reservas, pedidos, descuentos y creaciones. |
 
 ## Prototipo Lo-FI Wireframe 
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta_filtros.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb1.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb2.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa1.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa2.png)
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/homepage.png)
 
 
 ## Conclusiones  
