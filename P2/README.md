@@ -1,6 +1,9 @@
 ## DIU - Practica2, entregables
 
 ## Ideación 
+
+El análisis de la experiencia del usuario ha revelado varias deficiencias en la plataforma actual: concluímos que la página de Goiko puede no ser intuitiva para un usuario novato en páginas web. El acceso a la carta y a la carta de alérgenos está "escondido", carece de botones para retroceder y la ayuda y el contacto no están a la vista.
+
 ### Malla receptora de información 
 Para idear como podríamos reconvertir la página web, vamos a hacer uso de distinas herramientas.
 
@@ -14,11 +17,38 @@ Para idear como podríamos reconvertir la página web, vamos a hacer uso de dist
 Para remarcar los aspectos más importantes, recurrimos a un Feedback Capture Grid:
 ![feedback capture grid](https://github.com/manuelmartinz/UX_CaseStudy/blob/7cb802121c91ac4b98e31929ea6202349efb77ab/P2/Feeback%20capture%20grid.png)
 
+### Point of View
+Tras el análisis realizado, planteamos nuestra propuesta de valor, focalizándonos en el acceso intuitivo de las funcionalidades de la página:
+- Se desea reconstruir la página inicial para que las funcionalidades principales (la carta, hacer pedidos, reservar mesa y la ayuda de contacto) estén a la vista.
+- Facilitar la búsqueda de la carta.
 
-* Point of View 
+Con estas mejoras, se espera optimizar la experiencia del usuario.
 
+Por otro lado, buscamos fomentar la participación activa y el acceso a la web de los usuarios de Goiko, por lo que proponemos un concurso donde sean los usuarios los que elijan los productos de la carta. Cada mes, habrá un nuevo producto innovador elegido por la comunidad.
 
 ## PROPUESTA DE VALOR
+
+Queremos mejorar la experiencia de los usuarios de la web de Goiko, y para ello, tenemos que facilitar el acceso a la información para nuestros usuarios. 
+
+Proponemos mejorar la página inicial, para que cualquier usuario nuevo, novato o experimentado no encuentre problemas para buscar la carta, retroceder a la página inicial, buscar ayuda o buscar su restaurante más cercano. También queremos facilitar la consulta de la carta incorporando unos filtros que nos permitirán buscar nuestro producto ideal, ya sea por precio, sabor o alérgenos.
+
+Creemos que estos cambios mejorarían la experiencia de usuarios como Manuel o Rosa, que son nuevos usuarios en la web de Goiko.
+
+Para diferenciarnos del resto, nuestra propuesta de valor transforma al cliente de un consumidor pasivo a un creador protagonista. A través de una plataforma interactiva, ofrecemos la oportunidad de diseñar la *"hamburguesa perfecta"*, permitiendo que quienes las disfrutan definan el futuro de nuestra carta.
+
+Invitamos a los usuarios a experimentar con ingredientes, texturas y sabores mediante una interfaz intuitiva donde pueden enviar su propuesta personalizada. Además, tendrán que tener en cuenta el precio de la hamburguesa, pues cada ingrediente tiene un precio distinto, y para que la hamburguesa sea elegida por la comunidad, debe llamar la atención de los usuarios de Goiko.
+
+De entre todas las candidaturas, un jurado de expertos de Goiko seleccionará las tres recetas más innovadoras, basándose en la originalidad y el espíritu de la marca.
+
+La decisión final recae en la comunidad. La Galería de Votación se convierte en un espacio donde los usuarios interactúan, comparan y eligen su favorita, fomentando la participación activa.
+
+El ganador obtiene el máximo reconocimiento en el mundo de la comida rápida:
+
+- La hamburguesa ganadora será integrada en la carta oficial de Goiko de forma temporal, permitiendo que miles de personas en todo el país prueben su creación.
+- Un mes de hamburguesas gratis para el creador, celebrando su victoria disfrutando de nuestra cocina.
+
+Con este Scope Canvas esquematizamos nuestra propuesta de valor:
+
 ![ScopeCanvas](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Scope%20Canvas.png)
 
 
@@ -28,7 +58,7 @@ Para remarcar los aspectos más importantes, recurrimos a un Feedback Capture Gr
 
 Hemos recopilado las funcionalidades más críticas para realizar nuestro análisis de tareas basándonos en el **Task Analysis**.
 
-| Tarea | Cliente frecuente | Usuario nuevo | Usuario alérgico |
+| Tarea | Cliente frecuente | Usuario nuevo | Usuario alérgico | 
 | :--- | :---: | :---: | :---: |
 | **Reservar de forma rápida** | **ALTA** | Media | Media |
 | **Realizar pedido** | **ALTA** | Media | Media |
@@ -44,7 +74,7 @@ Hemos recopilado las funcionalidades más críticas para realizar nuestro análi
 * **Usuario nuevo:** Alguien que descubre Goiko por primera vez. Necesita información y confianza. Quiere conocer dónde se encuentra, además de sus precios y servicios.
 * **Usuario alérgico:** Su navegación es preventiva. El filtrado de ingredientes es su tarea primaria; si no confía en la información de alérgenos, abandonará la plataforma.
 
-> Esta matriz justifica la arquitectura de información de nuestro prototipo, priorizando el acceso directo a los **Filtros** y a los botones de **Reserva/Pedido** en la zona superior de la interfaz (Header).
+> Esta matriz justifica la arquitectura de información de nuestro prototipo, priorizando el acceso directo a los **Filtros** y a los botones de **Reserva/Pedido** en el header.
 
 ### Task Flow
 A continuación, podemos observar los distintos Task Flows:
@@ -85,13 +115,29 @@ A continuación se detallan las secciones y pantallas extraídas del Sitemap, de
 | **Mi Goiko (Perfil)** | Área personal del usuario: gestión de cuenta, historial de reservas, pedidos, descuentos y creaciones. |
 
 ## Prototipo Lo-FI Wireframe 
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta_filtros.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb1.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb2.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa1.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa2.png)
+
+Para la elaboración de los wireframes, hemos usado assets de Figma para simular distribución y organización del layout:
+
+HomePage formato portátil:
 ![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/homepage.png)
+
+Carta formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta.png)
+
+Filtros de la carta formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta_filtros.png)
+
+Concurso "Crea Sabores con Encanto" formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa1.png)
+
+Galería "Crea Sabores con Encanto"  formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa2.png)
+
+Configuración de la hamburguesa formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb1.png)
+
+Filtros de la configuración de la hamburguesa formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb2.png)
 
 
 ## Conclusiones 
