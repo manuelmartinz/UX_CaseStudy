@@ -160,6 +160,26 @@ Respecto a las funcionalidades, la navegación, el control de errores y el rendi
 
 ![SiteMap](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/sitemap.png)
 
+A continuación se detallan las secciones y pantallas extraídas del Sitemap, definiendo el alcance de cada una para el desarrollo del proyecto.
+
+| Etiqueta | Descripción |
+| :--- | :--- |
+| **Página de Inicio** | Nodo central con accesos directos a todas las funcionalidades. |
+| **Iniciar Sesión** | Gestión de acceso de usuarios ya existentes. |
+| **Registro** | Gestión de acceso de nuevos usuarios. |
+| **Reservar mesa** | Página donde se accede para reservar mesa. Se pide seleccionar la ciudad, el restaurante de esa ciudad (si hay más de uno), el número de personas y el teléfono. |
+| **Reserva confirmada** | Pantalla de éxito tras finalizar el proceso de reserva de mesa. |
+| **Carta** | Punto de acceso categorizado por Filtros de alérgenos, Entrantes, Hamburguesas y Postres. |
+| **Categorías (Entrantes/Burguers/Postres)** | Pantallas específicas con el listado de productos y rejilla de imágenes de cada categoría. |
+| **Sobre nosotros** | Información corporativa: contacto, preguntas frecuentes (FAQ) y localizador de tiendas. |
+| **Crea sabores con encanto** | Página inicial dedicada al concurso, con información y acceso a la participación. |
+| **Configuración hamburguesa** | Interfaz interactiva para la selección de productos y personalización de ingredientes. |
+| **Galería** | Visualización de creaciones y fotos de la comunidad. Área donde se pueden votar las propuestas para el concurso del mes. |
+| **Hacer pedido** | Página para realizar un pedido en el que elegimos el método de entrega: "Recoger en casa" o "Recoger en local". |
+| **Pago** | Pasarela de pago para introducir métodos de cobro (VISA, etc.) y procesar la transacción. |
+| **Pedido confirmado** | Pantalla final con el resumen del pedido y confirmación de recepción del pago. |
+| **Mi Goiko (Perfil)** | Área personal del usuario: gestión de cuenta, historial de reservas, pedidos, descuentos y creaciones. |
+
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
 Término | Significado     
