@@ -20,11 +20,12 @@ Actualizado: 14/01/2026
 
 Grupo: DIUx_AABB.  Curso: 2025/26 
 
-Nombre del Proyecto: ***Crea Sabores con Encanto***
+Nombre del Proyecto: 
+>>> ***Crea Sabores con Encanto***
 
 Descripción: 
 
-Nuestra propuesta de valor se basa en mejorar la experiencia (rediseñando la página de inicio e incorporando filtros en la carta) y aumentar la participación de los usuarios en la página mediante un concurso, "Crea Sabores con Encanto", en el que los participantes deberán crear su *hamburguesa ideal* dados unos ingredientes. La hamburguesa ganadora será elegida por la comunidad, y estará disponible en la carta durante un mes. El ganador dispondrá de un mes de hamburguesas gratis (una por semana).
+>>> Nuestra propuesta de valor se basa en mejorar la experiencia (rediseñando la página de inicio e incorporando filtros en la carta) y aumentar la participación de los usuarios en la página mediante un concurso, "Crea Sabores con Encanto", en el que los participantes deberán crear su *hamburguesa ideal* dados unos ingredientes. La hamburguesa ganadora será elegida por la comunidad, y estará disponible en la carta durante un mes. El ganador dispondrá de un mes de hamburguesas gratis (una por semana).
 
 Logotipo: 
 
