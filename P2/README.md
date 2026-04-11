@@ -96,7 +96,7 @@ Nuestro SiteMap para la navegación de la nueva página de Goiko sería el sigui
 ### Labelling
 A continuación se detallan las secciones y pantallas extraídas del Sitemap, definiendo el alcance de cada una para el desarrollo del proyecto.
 
-| Etiqueta | Descripción |
+| Término | Significado |
 | :--- | :--- |
 | **Página de Inicio** | Nodo central con accesos directos a todas las funcionalidades. |
 | **Iniciar Sesión** | Gestión de acceso de usuarios ya existentes. |
