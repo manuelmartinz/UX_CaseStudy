@@ -20,13 +20,11 @@ Actualizado: 14/01/2026
 
 Grupo: DIUx_AABB.  Curso: 2025/26 
 
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre del Proyecto: ***Crea Sabores con Encanto***
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra propuesta de valor se basa en mejorar la experiencia (rediseñando la página de inicio e incorporando filtros en la carta) y aumentar la participación de los usuarios en la página mediante un concurso, "Crea Sabores con Encanto", en el que los participantes deberán crear su *hamburguesa ideal* dados unos ingredientes. La hamburguesa ganadora será elegida por la comunidad, y estará disponible en la carta durante un mes. El ganador dispondrá de un mes de hamburguesas gratis (una por semana).
 
 Logotipo: 
 
@@ -115,22 +113,29 @@ Respecto a las funcionalidades, la navegación, el control de errores y el rendi
 
 ## Paso 2. UX Design
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
+
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+- Mapa de empatía de Manuel: ![Ideación](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Manuel.jpg)
+
+- Mapa de empatía de Rosa: ![Ideación](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Rosa.png)
 
 
- ![Ideación](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Manuel.jpg)
- ![Ideación](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Ideaci%C3%B3n/Empathy%20Customer%20Map%20Goiko%20Rosa.png)
- 
+Nuestro Feedback Capture Grid:
+![feedback capture grid](https://github.com/manuelmartinz/UX_CaseStudy/blob/7cb802121c91ac4b98e31929ea6202349efb77ab/P2/Feeback%20capture%20grid.png)
+
   
     
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Planteamos nuestra propuesta de valor, focalizándonos en el acceso intuitivo de las funcionalidades de la página:
+- Se desea reconstruir la página inicial para que las funcionalidades principales (la carta, hacer pedidos, reservar mesa y la ayuda de contacto) estén a la vista.
+- Facilitar la búsqueda de la carta.
+
+Con estas mejoras, se espera optimizar la experiencia del usuario.
+
+Por otro lado, buscamos fomentar la participación activa y el acceso a la web de los usuarios de Goiko, por lo que proponemos un concurso donde sean los usuarios los que elijan los productos de la carta. Cada mes, habrá un nuevo producto innovador elegido por la comunidad.
 
 
 ### 2.b ScopeCanvas
@@ -139,8 +144,6 @@ Respecto a las funcionalidades, la navegación, el control de errores y el rendi
 
 ![ScopeCanvas](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/Scope%20Canvas.png)
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
 
 
@@ -148,7 +151,32 @@ Respecto a las funcionalidades, la navegación, el control de errores y el rendi
 ![Método UX](img/Sitemap.png) 
 -----
 
+**User Task Matrix**
+
+| Tarea | Cliente frecuente | Usuario nuevo | Usuario alérgico | 
+| :--- | :---: | :---: | :---: |
+| **Reservar de forma rápida** | **ALTA** | Media | Media |
+| **Realizar pedido** | **ALTA** | Media | Media |
+| **Consultar carta y precios** | Media | **ALTA** | **ALTA** |
+| **Consultar y filtrar alérgenos** | Media | Media | **ALTA** |
+| **Encontrar localización** | Baja | **ALTA** | Media |
+
+---
+
+#### Perfiles :busts_in_silhouette:
+
+* **Cliente frecuente:** Usuario que ya conoce la marca y el producto. No necesita explorar, busca eficiencia. Desea realizar su pedido en el menos tiempo posible y asegurar su mesa sin complicaciones.
+* **Usuario nuevo:** Alguien que descubre Goiko por primera vez. Necesita información y confianza. Quiere conocer dónde se encuentra, además de sus precios y servicios.
+* **Usuario alérgico:** Su navegación es preventiva. El filtrado de ingredientes es su tarea primaria; si no confía en la información de alérgenos, abandonará la plataforma.
+
+**Task Flow**
+
+- **Task Flow 1:** Acceso y Consulta de la Carta
+Este flujo describe los pasos que realiza el usuario desde que entra en la página hasta que visualiza los productos de la carta. Para ello, el usuario tendrá que pulsar el botón en el que pone *"Carta"* en la página de inicio. Después, el cliente tendrá que elegir entre las opciones: *Entrantes, Hamburguesas* y *Postres*. Una vez dentro podremos elegir los filtros para los alérgenos.
 ![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/carta.jpg)
+
+- **Task Flow 2:** Creación de hamburguesa
+Este flujo describe los pasos que realiza el usuario para crear una hamburguesa para el concurso *"Crea Sabores con Encanto"* de nuestra propuesta de valor. Para ello, el usuario accederá a la página del concurso desde la página inicio. El cliente tendrá que configurar su hamburguesa, seleccionando los ingredientes y eligiendo el nombre. Una vez configurada, tendrá que iniciar sesión para que su hamburguesa sea propuesta en la galería de hamburguesas.
 ![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/propuesta.jpg)
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
@@ -162,7 +190,7 @@ Respecto a las funcionalidades, la navegación, el control de errores y el rendi
 
 A continuación se detallan las secciones y pantallas extraídas del Sitemap, definiendo el alcance de cada una para el desarrollo del proyecto.
 
-| Etiqueta | Descripción |
+| Término | Significado |
 | :--- | :--- |
 | **Página de Inicio** | Nodo central con accesos directos a todas las funcionalidades. |
 | **Iniciar Sesión** | Gestión de acceso de usuarios ya existentes. |
@@ -182,22 +210,33 @@ A continuación se detallan las secciones y pantallas extraídas del Sitemap, de
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+Para la elaboración de los wireframes, hemos usado assets de Figma para simular distribución y organización del layout:
 
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta_filtros.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb1.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb2.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa1.png)
-![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa2.png)
+HomePage formato portátil:
 ![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/homepage.png)
+
+Carta formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta.png)
+
+Filtros de la carta formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/carta_filtros.png)
+
+Concurso "Crea Sabores con Encanto" formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa1.png)
+
+Galería "Crea Sabores con Encanto"  formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/galer%C3%ADa2.png)
+
+Configuración de la hamburguesa formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb1.png)
+
+Filtros de la configuración de la hamburguesa formato portátil:
+![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb2.png)
 
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
