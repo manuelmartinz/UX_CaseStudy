@@ -180,7 +180,6 @@ Este flujo describe los pasos que realiza el usuario desde que entra en la pági
 Este flujo describe los pasos que realiza el usuario para crear una hamburguesa para el concurso *"Crea Sabores con Encanto"* de nuestra propuesta de valor. Para ello, el usuario accederá a la página del concurso desde la página inicio. El cliente tendrá que configurar su hamburguesa, seleccionando los ingredientes y eligiendo el nombre. Una vez configurada, tendrá que iniciar sesión para que su hamburguesa sea propuesta en la galería de hamburguesas.
 ![TaskFlow](https://github.com/manuelmartinz/UX_CaseStudy/blob/b2e9348ade9c9146935717088f4077e864132838/P2/Task%20flow/propuesta.jpg)
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
 ### 2.c IA: Sitemap + Labelling 
@@ -240,7 +239,6 @@ Filtros de la configuración de la hamburguesa formato portátil:
 ![WireFrame](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P2/wireframes/configuracion_hamb2.png)
 
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
 <br>
 
