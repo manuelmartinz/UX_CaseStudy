@@ -11,7 +11,15 @@
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
 ## Moodboard
 
+Hemos creado este tablero centrado en mantener la personalidad del local:
+
 ![Moodboard](https://github.com/manuelmartinz/UX_CaseStudy/blob/0e8b27f2db99d9eee1e737745a397bfb7ea97ac6/P3/moodboard.png)
+
+La elección de un fondo Negro acerca a Goiko a una experiencia gastronómica Premium. Sobre este lienzo oscuro, el Rojo Ketchup y el Amarillo Cheddar no solo actúan como disparadores del apetito (psicología del color), sino que destacan sobre este fondo oscuro, guiando el ojo del usuario directamente hacia los botones de acción y los destacados. 
+
+Hemos querido conservar y potenciar esta paleta cromática no solo por su funcionalidad digital, sino por coherencia de marca: los locales de Goiko siguen esta misma línea estética. Así, la experiencia digital se sienta como estar sentado en el restaurante, con su iluminación tenue, sus paredes oscuras y el neón encendido.
+
+El objetivo primordial es activar el apetito del usuario. Mediante el uso de imágenes gastronómicas, transformamos la interfaz en un escaparate visual que despierta el apetito.
 
 ## Landing Page
 ---
