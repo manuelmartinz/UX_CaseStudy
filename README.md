@@ -291,19 +291,24 @@ Filtros de la configuración de la hamburguesa formato portátil:
 
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios | Sexo/Edad | Ocupación            | Exp.TIC | Personalidad   | Plataforma | Caso |
+|---------|-----------|----------------------|---------|----------------|------------|------|
+| P01     | H / 19    | Estudiante           | Media   | Introvertido   | Web        | A    |
+| P02     | M / 21    | Estudiante           | Alta    | Creativa       | Web        | A    |
+| P03     | H / 22    | Estudiante           | Media   | Extrovertido   | Web        | B    |
+| P04     | M / 20    | Estudiante           | Baja    | Racional       | Web        | B    |
+| P05     | M / 45    | Profesora            | Alta    | Analítico      | Web        | A    |
+| P06     | M / 38    | Administrativo       | Media   | Empática       | Web        | B    |
+| P07     | H / 67    | Jubilado             | Baja    | Tranquilo      | Web        | A    |
+| P08     | H / 33    | Ingeniero Agrónomo   | Alta    | Intuitiva      | Web        | B    |
+
+
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
------
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+
 
 
 
