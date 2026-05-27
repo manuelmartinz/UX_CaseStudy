@@ -248,7 +248,7 @@ Filtros de la configuración de la hamburguesa formato portátil:
 
 
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
+![Método UX](https://github.com/manuelmartinz/UX_CaseStudy/blob/master/P3/moodboard.png)
 -----
 
 >>> Diseño visual con una guía de estilos visual (moodboard) 
