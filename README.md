@@ -400,6 +400,69 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
+## Accesibilidad
+
+## Resultados obtenidos
+
+### Lighthouse
+Lighthouse obtuvo una puntuación de accesibilidad de **88/100**. Los principales problemas detectados fueron:
+- Botones sin nombre accesible.
+- Problemas de contraste entre texto y fondo.
+
+### WAVE
+WAVE obtuvo un **AIM Score de 9.9/10** y no detectó errores críticos. Sin embargo, mostró 4 alertas:
+- No heading structure.
+- No page regions.
+- 2 elementos `noscript`.
+
+## Problemas detectados
+
+### 1. Botones sin nombre accesible
+
+- Herramienta: Lighthouse
+- Categoría: Robusto
+- Criterio WCAG: 4.1.2 Name, Role, Value
+- Problema: Algunos botones no tienen un nombre accesible.
+- Impacto: Un lector de pantalla podría leer solo “botón”, sin explicar su función.
+- Recomendación: Añadir texto descriptivo o atributos `aria-label`.
+
+### 2. Contraste insuficiente
+
+- Herramienta: Lighthouse
+- Categoría: Perceptible
+- Criterio WCAG: 1.4.3 Contraste mínimo
+- Problema: Algunos textos y botones no tienen suficiente contraste con el fondo.
+- Impacto: Puede dificultar la lectura a usuarios con baja visión.
+- Recomendación: Aumentar el contraste entre texto y fondo.
+
+### 3. Falta de estructura de encabezados
+
+- Herramienta: WAVE
+- Categoría: Comprensible
+- Problema: WAVE detecta `No heading structure`.
+- Impacto: La página pierde jerarquía semántica y puede ser más difícil de navegar con lector de pantalla.
+- Recomendación: Añadir encabezados ordenados como `h1`, `h2`, `h3`.
+
+### 4. Falta de regiones de página
+
+- Herramienta: WAVE
+- Categoría: Robusto / Operable
+- Problema: WAVE detecta `No page regions`.
+- Impacto: Los usuarios de tecnologías asistivas no pueden saltar fácilmente entre zonas como header, main o footer.
+- Recomendación: Usar etiquetas semánticas como `header`, `main`, `nav`, `section` y `footer`.
+
+### 5. Elementos noscript
+
+- Herramienta: WAVE
+- Categoría: Robusto
+- Problema: WAVE detecta 2 elementos `noscript`.
+- Impacto: Puede indicar contenido alternativo oculto o poco claro si JavaScript está desactivado.
+- Recomendación: Revisar que el contenido principal siga siendo comprensible y que los elementos ocultos no generen confusión.
+
+## Valoración general
+
+La accesibilidad del Caso B es bastante positiva. Lighthouse obtiene una puntuación de **88/100** y WAVE no detecta errores críticos, alcanzando un **AIM Score de 9.9/10**. Aun así, se han encontrado mejoras necesarias en nombres accesibles de botones, contraste, estructura de encabezados y regiones semánticas. Con estas correcciones, la página se aproximaría mejor al cumplimiento de las recomendaciones WCAG 2.1 nivel AA.
+
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
