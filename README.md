@@ -273,9 +273,23 @@ Filtros de la configuración de la hamburguesa formato portátil:
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
-----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Nuestro Main Page:
+
+![MainPage](https://github.com/manuelmartinz/UX_CaseStudy/blob/0e8b27f2db99d9eee1e737745a397bfb7ea97ac6/P3/Guidelines/main-page.png)
+
+La carta mejorada:
+
+![Carta](https://github.com/manuelmartinz/UX_CaseStudy/blob/0e8b27f2db99d9eee1e737745a397bfb7ea97ac6/P3/Guidelines/carta-hamb.png)
+
+Concurso:
+
+![Concurso](https://github.com/manuelmartinz/UX_CaseStudy/blob/0e8b27f2db99d9eee1e737745a397bfb7ea97ac6/P3/Guidelines/Concurso.png)
+
+Configuración de la hamburguesa:
+
+![Configuración Hamburguesa](https://github.com/manuelmartinz/UX_CaseStudy/blob/29699bbf9ef2f0f0e6a91871a2c9700d9690a5fc/P3/Guidelines/configuracion-hamb.png)
+
 
 
 <br>
