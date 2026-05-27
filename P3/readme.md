@@ -56,7 +56,7 @@ Esto permitió crear componentes reutilizables y mejor organizados.
 ### Organismos
 Finalmente, en la fase de organismos, unimos múltiples moléculas para construir secciones completas y pantallas funcionales de la aplicación. A partir de esta organización se desarrollaron los diseños finales **Hi-Fi**, donde ya se aplicó toda la identidad visual, incluyendo colores definitivos, imágenes, tipografías, distribución y experiencia visual final.
 
-Todo esto se puede consultar en: https://www.figma.com/design/IGwxoorp4IFzA71yBA64at/Sin-t%C3%ADtulo?node-id=1-2&p=f&t=VMqP0TitJ8p3nxkZ-0
+Todo esto se puede consultar en: [enlace a Figma](https://www.figma.com/design/IGwxoorp4IFzA71yBA64at/Sin-t%C3%ADtulo?node-id=1-2&p=f&t=VMqP0TitJ8p3nxkZ-0)
 
 ## Layout HI-FI
 
