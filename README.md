@@ -265,10 +265,47 @@ Filtros de la configuración de la hamburguesa formato portátil:
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
-----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+## Estilo general
+- Diseño moderno y minimalista inspirado en marcas de comida rápida premium.
+- Uso de estética oscura con alto contraste visual.
+- Interfaz centrada en destacar el producto mediante imágenes grandes y llamativas.
+- Diseño limpio con pocos elementos por pantalla para mejorar la experiencia visual.
+
+## Paleta de colores
+- Negro como color principal de fondo.
+- Rojo intenso para botones, llamadas a la acción y elementos importantes.
+- Blanco para tipografía, bordes y footer.
+- Gris claro utilizado en algunas secciones secundarias.
+- Naranja utilizado en algunos efectos *hover* y elementos interactivos.
+- Colores cálidos en las imágenes para generar sensación de apetito.
+
+## Tipografía
+- Tipografía principal: **Bebas Neue**.
+- Uso de tipografías gruesas y condensadas.
+- Títulos en mayúsculas para aportar fuerza visual.
+- Jerarquía clara entre títulos, subtítulos y texto secundario.
+- Textos cortos y directos para facilitar la lectura rápida.
+
+## Componentes UI
+- Botones redondeados con bordes marcados.
+- Tarjetas de producto reutilizables.
+- Menú superior fijo y consistente en todas las pantallas.
+- Uso de iconos simples y reconocibles.
+- Inputs y selectores con diseño minimalista.
+
+## Imágenes y recursos visuales
+- Fotografías de alta calidad y gran protagonismo visual.
+- Uso de mockups realistas de hamburguesas y comida.
+- Imágenes con fondos oscuros para mantener coherencia estética.
+- Composiciones centradas en el producto.
+
+## Experiencia de usuario
+- Navegación sencilla e intuitiva.
+- Distribución clara de la información.
+- Importancia visual en acciones principales como “Reservar” o “Participa ya”.
+- Diseño responsive pensado para móvil y ordenador.
 
 
 ### 3.d Mockup
