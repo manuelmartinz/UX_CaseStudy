@@ -308,6 +308,11 @@ Filtros de la configuración de la hamburguesa formato portátil:
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 
+Prueba 1: “Encuentra el enlace a Instagram del restaurante desde la página principal.”
+Prueba 2: “Crea una hamburguesa personalizada.”
+Prueba 3: “Encuentra el precio de cualquier producto en la carta.”
+Prueba 4: “Comprueba los alérgenos de cualquier producto”
+
 
 
 
