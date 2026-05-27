@@ -47,6 +47,7 @@ Configuración de la hamburguesa:
 
 ## Briefing
 
-En esta práctica realizada con Figma Make hemos trabajado el diseño de una interfaz aplicando la metodología de Atomic Design, creando primero los elementos básicos o átomos, después moléculas y finalmente organismos. A partir de esta estructura fuimos construyendo bocetos y pantallas Hi-Fi, consiguiendo una interfaz más organizada, coherente y fácil de modificar.
 
-Además, mediante el uso de mockups pudimos definir mejor el estilo visual del proyecto, concretando aspectos como la paleta de colores, la tipografía, el uso de imágenes y la estética general de la aplicación. Esto nos ayudó a dar una identidad visual clara y más profesional al diseño final.
+Durante esta práctica realizada con Figma Make, desarrollamos el diseño de una aplicación centrada en la personalización y visualización de hamburguesas, aplicando la metodología de Atomic Design. El proceso comenzó con la creación de átomos, como botones, iconos, tipografías y campos de texto, que posteriormente se combinaron para formar moléculas y organismos más complejos, permitiendo construir pantallas completas de forma organizada y reutilizable.
+
+Además, se realizaron distintos bocetos Hi-Fi para definir tanto la estructura como la identidad visual de la aplicación. Gracias al uso de mockups conseguimos establecer una línea gráfica coherente basada en una estética moderna y minimalista, utilizando una paleta de colores dominada por negro, rojo, blanco y detalles en naranja para los efectos hover. También se definió el uso de la tipografía Bebas Neue como elemento principal de identidad visual, junto con imágenes de alta calidad y una interfaz enfocada en mejorar la experiencia de usuario tanto en dispositivos móviles como en ordenador.
