@@ -286,6 +286,8 @@ Filtros de la configuración de la hamburguesa formato portátil:
 ![Método UX](img/usability-testing.png)
 -----
 
+[Nuestra web](https://dew-rinse-96898431.figma.site)
+
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
