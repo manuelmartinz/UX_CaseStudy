@@ -364,9 +364,9 @@ Configuración de la hamburguesa:
 ![Método UX](img/usability-testing.png) 
 
 Prueba 1: “Encuentra el enlace a Instagram del restaurante desde la página principal.”   
-Prueba 2: “Encuentra el precio de cualquier producto en la carta.”  
-Prueba 3: “Comprueba los alérgenos de cualquier producto.”  
-Prueba 4: “Reserva una mesa para mañana.”  
+Prueba 2: “Encuentra el apartado "salsas" en la carta.”  
+Prueba 3: “Encuentra el horario del local.”  
+Prueba 4: “Reserva una mesa.”  
 
 
 
