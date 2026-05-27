@@ -26,6 +26,38 @@ El objetivo primordial es activar el apetito del usuario. Mediante el uso de im�
 
 ## Design System
 
+Para el desarrollo de la interfaz seguimos la metodología **Atomic Design**, organizando el diseño en distintas fases para conseguir una estructura visual coherente y reutilizable.
+
+### Átomos
+En primer lugar diseñamos los átomos, es decir, los elementos más básicos de la interfaz. Entre ellos se encontraban:
+- Botones principales
+- Tipografías
+- Precios
+- Iconos
+- Colores
+- Elementos del header y footer
+- Etiquetas y pequeños componentes visuales
+
+Estos elementos sirvieron como base para mantener una identidad visual consistente en toda la aplicación.
+
+### Moléculas
+Posteriormente agrupamos varios átomos para crear las moléculas, combinando distintos componentes funcionales. En esta fase desarrollamos:
+- Header completo
+- Footer
+- Tarjetas de productos
+- Diseños de hamburguesas con:
+  - imagen
+  - precio
+  - alérgenos
+- Diferentes bloques visuales compuestos por varios átomos
+
+Esto permitió crear componentes reutilizables y mejor organizados.
+
+### Organismos
+Finalmente, en la fase de organismos, unimos múltiples moléculas para construir secciones completas y pantallas funcionales de la aplicación. A partir de esta organización se desarrollaron los diseños finales **Hi-Fi**, donde ya se aplicó toda la identidad visual, incluyendo colores definitivos, imágenes, tipografías, distribución y experiencia visual final.
+
+Todo esto se puede consultar en: https://www.figma.com/design/IGwxoorp4IFzA71yBA64at/Sin-t%C3%ADtulo?node-id=1-2&p=f&t=VMqP0TitJ8p3nxkZ-0
+
 ## Layout HI-FI
 
 Nuestro Main Page:
