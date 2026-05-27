@@ -297,12 +297,8 @@ Filtros de la configuración de la hamburguesa formato portátil:
 |---------|-----------|----------------------|---------|----------------|------------|------|
 | P01     | H / 19    | Estudiante           | Media   | Introvertido   | Web        | A    |
 | P02     | M / 21    | Estudiante           | Alta    | Creativa       | Web        | A    |
-| P03     | H / 22    | Estudiante           | Media   | Extrovertido   | Web        | B    |
-| P04     | M / 20    | Estudiante           | Baja    | Racional       | Web        | B    |
-| P05     | M / 45    | Profesora            | Alta    | Analítico      | Web        | A    |
-| P06     | M / 38    | Administrativo       | Media   | Empática       | Web        | B    |
-| P07     | H / 67    | Jubilado             | Baja    | Tranquilo      | Web        | A    |
-| P08     | H / 33    | Ingeniero Agrónomo   | Alta    | Intuitiva      | Web        | B    |
+| P03     | H / 67    | Jubilado             | Baja    | Tranquilo      | Web        | A    |
+| P04     | H / 33    | Ingeniero Agrónomo   | Alta    | Intuitiva      | Web        | B    |
 
 
 
@@ -313,7 +309,8 @@ Filtros de la configuración de la hamburguesa formato portátil:
 Prueba 1: “Encuentra el enlace a Instagram del restaurante desde la página principal.”
 Prueba 2: “Crea una hamburguesa personalizada.”
 Prueba 3: “Encuentra el precio de cualquier producto en la carta.”
-Prueba 4: “Comprueba los alérgenos de cualquier producto”
+Prueba 4: “Comprueba los alérgenos de cualquier producto.”
+Prueba 5: “Reserva una mesa para mañana.”
 
 
 
