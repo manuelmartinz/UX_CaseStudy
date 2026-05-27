@@ -4,17 +4,19 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="height:150px" />
 
-### Evaluación de usabilidad del proyecto  [NOMBRE PROYECTO]
+### Evaluación de usabilidad del proyecto  Anime Ramen
 
-[Fecha]
+27/05/2026
 
-[img Proyecto]
+<img width="1869" height="866" alt="image" src="https://github.com/user-attachments/assets/baee20de-4e3a-49ed-b31e-051eeb3c6fb0" />
 
-[Enlace a GITHUB del proyecto]
+
+https://github.com/DIU1PGDuo/UX_CaseStudy
 
 ### Realizado por:  
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+Manuel Martínez Herrera
+Lola Lorite Díaz
 
 
  
@@ -58,10 +60,54 @@ Valoración numérica del SUS -
 
 ## 5. Auditoría de Accesibilidad
 
-Sintetiza el cumplimiento técnico y normativo.
+## Resultados obtenidos
 
-- **Puntuación Automática:** (Lighthouse/WAVE).
-- **Principales barreras:** Lista los errores críticos (contraste, falta de etiquetas, etc.) y cómo afectan a los usuarios con discapacidad.
+### Lighthouse
+Lighthouse obtuvo una puntuación de accesibilidad de **88/100**. Los principales problemas detectados fueron:
+- Botones sin nombre accesible.
+- Problemas de contraste entre texto y fondo.
+
+### WAVE
+WAVE obtuvo un **AIM Score de 9.9/10** y no detectó errores críticos. Sin embargo, mostró 4 alertas:
+- No heading structure.
+- No page regions.
+- 2 elementos `noscript`.
+
+## Problemas detectados
+
+### 1. Botones sin nombre accesible
+
+- Herramienta: Lighthouse
+- Categoría: Robusto
+- Criterio WCAG: 4.1.2 Name, Role, Value
+- Problema: Algunos botones no tienen un nombre accesible.
+- Impacto: Un lector de pantalla podría leer solo “botón”, sin explicar su función.
+- Recomendación: Añadir texto descriptivo o atributos `aria-label`.
+
+### 2. Contraste insuficiente
+
+- Herramienta: Lighthouse
+- Categoría: Perceptible
+- Criterio WCAG: 1.4.3 Contraste mínimo
+- Problema: Algunos textos y botones no tienen suficiente contraste con el fondo.
+- Impacto: Puede dificultar la lectura a usuarios con baja visión.
+- Recomendación: Aumentar el contraste entre texto y fondo.
+
+### 3. Falta de estructura de encabezados
+
+- Herramienta: WAVE
+- Categoría: Comprensible
+- Problema: WAVE detecta `No heading structure`.
+- Impacto: La página pierde jerarquía semántica y puede ser más difícil de navegar con lector de pantalla.
+- Recomendación: Añadir encabezados ordenados como `h1`, `h2`, `h3`.
+
+### 4. Falta de regiones de página
+
+- Herramienta: WAVE
+- Categoría: Robusto / Operable
+- Problema: WAVE detecta `No page regions`.
+- Impacto: Los usuarios de tecnologías asistivas no pueden saltar fácilmente entre zonas como header, main o footer.
+- Recomendación: Usar etiquetas semánticas como `header`, `main`, `nav`, `section` y `footer`.
 
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
 
