@@ -305,7 +305,7 @@ Filtros de la configuración de la hamburguesa formato portátil:
 - Navegación sencilla e intuitiva.
 - Distribución clara de la información.
 - Importancia visual en acciones principales como “Reservar” o “Participa ya”.
-- Diseño responsive pensado para móvil y ordenador.
+
 
 
 ### 3.d Mockup
