@@ -347,7 +347,7 @@ Configuración de la hamburguesa:
 | Usuarios | Sexo/Edad | Ocupación            | Exp.TIC | Personalidad   | Plataforma | Caso |
 |---------|-----------|----------------------|---------|----------------|------------|------|
 | P01     | H / 19    | Estudiante           | Media   | Introvertido   | Web        | A    |
-| P02     | M / 21    | Estudiante           | Alta    | Creativa       | Web        | A    |
+| P02     | M / 21    | Estudiante           | Alta    | Creativa       | Web        | B    |
 | P03     | H / 67    | Jubilado             | Baja    | Tranquilo      | Web        | A    |
 | P04     | H / 33    | Ingeniero Agrónomo   | Alta    | Intuitiva      | Web        | B    |
 
