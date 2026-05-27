@@ -34,11 +34,31 @@ Lola Lorite Díaz
 
 ## 2. Metodología y Reclutamiento
 
-[Describe el "cómo"]
+Para la realización del estudio de usabilidad se siguió una metodología basada en evaluación con usuarios reales, combinando técnicas cuantitativas y cualitativas con el objetivo de analizar la experiencia de usuario del sistema y detectar posibles mejoras de diseño y accesibilidad.
 
-- **Perfil de los participantes:** Resumen de la tabla demográfica (edad media, nivel digital).
-- **Escenario de la prueba:** Descripción de las tareas que realizaron los usuarios.
-- **Herramientas:** Mención de **GazeMapping**, Tally y herramientas de accesibilidad.
+## Perfil de los participantes
+
+La muestra estuvo compuesta por un total de 10 participantes distribuidos entre los casos A y B del experimento. Los usuarios presentaban perfiles variados en cuanto a edad, experiencia tecnológica y conocimientos previos, permitiendo obtener resultados más diversos y representativos.
+
+La edad de los participantes osciló entre los 19 y los 67 años, obteniéndose una edad media aproximada de 35 años. Respecto al nivel de competencia digital, predominaban usuarios con experiencia media y alta en el uso de aplicaciones web y herramientas tecnológicas, aunque también se incluyó un perfil con nivel bajo para evaluar la accesibilidad y facilidad de aprendizaje del sistema en usuarios menos experimentados.
+
+Entre los perfiles participantes se encontraban principalmente estudiantes de Ingeniería Informática, además de otros perfiles como administrativos, profesores, trabajadores autónomos, ingenieros agrónomos y personas jubiladas. Esto permitió analizar el comportamiento del sistema desde diferentes perspectivas de uso y familiaridad tecnológica.
+
+## Escenario de la prueba
+
+Cada participante interactuó con alguno de los dos diseños evaluados (Caso A o Caso B) siguiendo un pequeño conjunto de tareas orientadas a simular un uso real de la aplicación.
+
+La duración aproximada de cada sesión fue de 5 minutos. Tras completar las tareas, los participantes rellenaron el cuestionario SUS para valorar subjetivamente la usabilidad del sistema.
+
+## Herramientas utilizadas
+
+Para el desarrollo de la investigación se utilizaron distintas herramientas de evaluación UX:
+
+- **GazeMapping**: utilizado para realizar pruebas de Eye Tracking y generar mapas de calor sobre las zonas de interés de la interfaz, permitiendo analizar la atención visual y el recorrido de los usuarios.
+
+- **Tally.so**: empleado para la creación y recopilación de respuestas del cuestionario SUS y de los datos demográficos de los participantes.
+
+- **Lighthouse** y **WAVE**: herramientas automáticas utilizadas para la auditoría de accesibilidad del sistema, permitiendo detectar problemas relacionados con contraste, estructura semántica, nombres accesibles y cumplimiento de las recomendaciones WCAG 2.1.
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
