@@ -346,7 +346,6 @@ Configuración de la hamburguesa:
 
 | Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
 |---|---|---|---|---|---|---|
-
 | P03 | H / 53 | Profesor | Media | Analítico | Web | A |
 | P04 | M / 44 | Trabajadora autónoma | Media | Observadora | Web | A |
 | P06 | M / 21 | Estudiante de Ingeniería Informática | Alta | Creativa | Web | A |
