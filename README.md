@@ -346,16 +346,17 @@ Configuración de la hamburguesa:
 
 | Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
 |---|---|---|---|---|---|---|
-| P01 | H / 43 | Administrativo | Media | Práctico | Web | B |
-| P02 | M / 29 | Analista de datos | Alta | Creativa | Web | B |
+
 | P03 | H / 53 | Profesor | Media | Analítico | Web | A |
 | P04 | M / 44 | Trabajadora autónoma | Media | Observadora | Web | A |
-| P05 | H / 20 | Estudiante de Ingeniería Informática | Alta | Curioso | Web | B |
 | P06 | M / 21 | Estudiante de Ingeniería Informática | Alta | Creativa | Web | A |
-| P07 | H / 33 | Ingeniero Agrónomo | Media | Intuitivo | Web | B |
-| P08 | H / 21 | Estudiante de Ingeniería Informática | Alta | Activo | Web | B |
 | P09 | M / 67 | Jubilada | Baja | Tranquila | Web | A |
 | P10 | H / 19 | Estudiante de Ingeniería Informática | Media | Introvertido | Web | A |
+| P01 | H / 43 | Administrativo | Media | Práctico | Web | B |
+| P02 | M / 29 | Analista de datos | Alta | Creativa | Web | B |
+| P05 | H / 20 | Estudiante de Ingeniería Informática | Alta | Curioso | Web | B |
+| P07 | H / 33 | Ingeniero Agrónomo | Media | Intuitivo | Web | B |
+| P08 | H / 21 | Estudiante de Ingeniería Informática | Alta | Activo | Web | B |
 
 
 
