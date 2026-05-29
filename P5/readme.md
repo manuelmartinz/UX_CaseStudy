@@ -32,27 +32,28 @@ Para capturar la atención biométrica se configuró la herramienta **GazeMappin
 ### Diseño de las Pruebas
 Hemos diseñado cuatro tareas críticas que los usuarios deberán resolver:
 1. **Encuentra el enlace a Instagram del restaurante desde la página principal**
-   * Escenario planteado: "Estás buscando opiniones y fotos de los platos del restaurante antes de decidir si ir. Intenta localizar el enlace oficial a la cuenta de Instagram desde la página principal."
-   * Localización: footer.
-   * Objetivo: Ver si los usuarios son capaces de descubrir en qué lugar de la página se encuentran los enlaces a redes sociales.
+   * **Escenario planteado**: "Estás buscando opiniones y fotos de los platos del restaurante antes de decidir si ir. Intenta localizar el enlace oficial a la cuenta de Instagram desde la página principal."
+   * **Localización**: footer.
+   * **Objetivo**: Ver si los usuarios son capaces de descubrir en qué lugar de la página se encuentran los enlaces a redes sociales.
 2. **Encuentra el precio de algún producto de la carta** Se encuentran en las tarjetas de los productos de la carta.
-   * Escenario planteado: "Estás navegando por la página, decidiendo qué pedir y buscas el precio de algún producto concreto."
-   * Localización: Tarjetas de producto de la carta.
-   * Objetivo: Validar el diseño de los componentes de la carta. Se analiza si el precio destaca lo suficiente dentro de la tarjeta o si sufre de ceguera visual frente a la fotografía y el nombre del plato.
+   * **Escenario planteado**: "Estás navegando por la página, decidiendo qué pedir y buscas el precio de algún producto concreto."
+   * **Localización**: Tarjetas de producto de la carta.
+   * **Objetivo**: Validar el diseño de los componentes de la carta. Se analiza si el precio destaca lo suficiente dentro de la tarjeta o si sufre de ceguera visual frente a la fotografía y el nombre del plato.
 3. **Encuentra la ubicación del local**
-   * Escenario planteado: "Has estado mirando la carta y te ha convencido el local. Buscas la ubicación para ver cómo de cerca te pilla."
-   * Localización: Bloque inferior de la página principal (Homepage).
-   * Objetivo: Verificar si la información de contacto y geolocalización es fácil de encontrar mediante un escaneo rápido de la página de inicio o si compite visualmente con otros elementos decorativos.
+   * **Escenario planteado**: "Has estado mirando la carta y te ha convencido el local. Buscas la ubicación para ver cómo de cerca te pilla."
+   * **Localización**: Bloque inferior de la página principal (Homepage).
+   * **Objetivo**: Verificar si la información de contacto y geolocalización es fácil de encontrar mediante un escaneo rápido de la página de inicio o si compite visualmente con otros elementos decorativos.
 4. **Encuentra el botón "RESERVAR"**
-   * Escenario planteado: "Te has decidido por ir y quieres reservar una mesa para ir con tus amigos. Encuentra la vía más rápida para iniciar el proceso de reserva online desde la pantalla en la que te encuentras.
-   * Localización: Barra de navegación superior (Header) y página principal.
-   * Objetivo: Comprobar la efectividad del Call To Action (CTA) principal.
+   * **Escenario planteado**: "Te has decidido por ir y quieres reservar una mesa para ir con tus amigos. Encuentra la vía más rápida para iniciar el proceso de reserva online desde la pantalla en la que te encuentras.
+   * **Localización**: Barra de navegación superior (Header) y página principal.
+   * **Objetivo**: Comprobar la efectividad del Call To Action (CTA) principal.
 
 ### Definición de Puntos de Interés (POI / AOI)
 Se monitorizaron mediante zonas de fijación específicas:
 * El logo
 * Los botones "INICIO", "CARTA" y "RESERVA" del header.
 * Los enlaces del footer.
+* El precio y el nombre de los productos de la carta.
 * Los apartados de la carta.
 
 A continuación se muestran los resultados obtenidos en las pruebas de Eye Tracking:
@@ -63,6 +64,25 @@ A continuación se muestran los resultados obtenidos en las pruebas de Eye Track
 | **Encontrar el precio de un producto** | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_precio.png) | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_precio.png) | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_precio.png) |
 | **Encontrar la ubicación del local** | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_ubicacion.png) |
 | **Encontrar el botón de reservar** | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_reserva.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_reservar.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_reservar.png) |
+
+---
+
+5.3. Evaluación caso B
+Por limitaciones de la aplicación utilizada para el Eye Tracking, las pruebas se han podido realizar a tres de los participantes involucrados en la evaluación de la página. 
+
+Los participantes han completado las tareas sin ningún tipo de asistencia.
+
+El mapa de calor resultante muestra un patrón de fijación altamente disperso. Al buscar el botón "RESERVAR" en el header (Tarea 4) o la dirección en el footer (Tarea 3), la mirada de los participantes se detuvo de manera caótica en elementos puramente decorativos de la web (como fondos texturizados o imágenes secundarias). Aunque acabaron localizando los elementos de conversión de forma autónoma. El elevado número de saltos de la mirada demuestra una falta de limpieza visual que compite directamente con los Call to Action (CTA).
+
+Análisis de la Carta (Consulta de Precios - Tarea 2): Al analizar el POI de las tarjetas de los platos, la atención visual se monopoliza casi por completo en las fotografías de la comida. El precio del producto sufre de un ligero retraso en la primera fijación, confirmando que, aunque los usuarios encuentran el coste sin ayuda, el diseño actual genera distracción periférica.
+
+5.4. Escala SUS: Cuestionario
+
+
+
+
+
+
 
 
 
@@ -83,18 +103,6 @@ Protocolos de adaptación:
 
 Optimización de Eye Tracking: Si por limitaciones temporales o técnicas no fuera posible realizar el seguimiento ocular a toda la muestra, se priorizará esta prueba para un mínimo de 3 usuarios clave, garantizando así datos cualitativos suficientes para el análisis visual. Cualquier reducción en la muestra será debidamente justificada en el informe final. Tablas de datos: Recuerda que si un usuario evalúa A y B, sus respuestas en el SUS pueden estar sesgadas por la fatiga o por haber aprendido de la primera web. Asegúrate de que la mitad de esos usuarios pruebe primero la A y la otra mitad primero la B (Contrabalanceo).
 
-
-2. [Diseño de la prueba mediante: Eye Tracking]
-En esta fase utilizaremos GazeMapping, una herramienta de desarrollo propio que permite realizar evaluaciones de seguimiento ocular sobre elementos visuales estáticos. Este análisis es fundamental para validar la jerarquía visual y la ubicación de elementos críticos mediante el estudio de Zonas de Interés (AOI/POI).
-
-
-heatmap	
-
-
-
-Áreas de Interés (POI)
-3. [Evaluación caso A o B]
-Finalmente se completa estudio con el uso del sitio real por parte del usuario, dando indicaciones acerca de alguna tarea a realizar (reserva un producto, consulta horario...). Puede ser supervisada (se le da apoyo para hacer tareas) o no supervisada. En cualquier caso, se deberá indicar si ha necesitado ayuda par completar tareas. Duración entre 5-10 min aproximadamente.
 
 4. [Escala SUS: Cuestionario]
 Finalizada la evaluación por parte del usuario, debe rellenar el cuestionario SUS. El cuestionario está disponible en https://tally.so/. se puede usar la siguiente plantilla: https://tally.so/templates/escala-sus-test-de-usabilidad/wAyNNw
