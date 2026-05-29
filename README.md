@@ -448,13 +448,7 @@ A continuación se muestran los resultados obtenidos en las pruebas de Eye Track
 | **Encontrar la ubicación del local** | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_ubicacion.png) |
 | **Encontrar el botón de reservar** | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_reserva.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_reservar.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_reservar.png) |
 
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
-
+---
 
 ### 5. Elementos noscript
 
