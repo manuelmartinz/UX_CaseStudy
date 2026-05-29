@@ -16,6 +16,7 @@ https://github.com/DIU1PGDuo/UX_CaseStudy
 ### Realizado por:  
 
 Manuel Martínez Herrera
+
 Lola Lorite Díaz
 
 
