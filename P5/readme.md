@@ -81,7 +81,7 @@ A continuación se muestran los resultados obtenidos en las pruebas de Eye Track
 
 ---
 
-5.3. Evaluación caso B
+## 5.3. Evaluación caso B
 Por limitaciones de la aplicación utilizada para el Eye Tracking, las pruebas se han podido realizar a tres de los participantes involucrados en la evaluación de la página. 
 
 Los participantes han completado las tareas sin ningún tipo de asistencia.
@@ -92,10 +92,10 @@ Análisis de la Carta (Consulta de Precios - Tarea 2): Al analizar el POI de las
 
 ---
 
-5.4. Escala SUS: Cuestionario
+## 5.4. Escala SUS: Cuestionario
 
 
-
+---
 
 
 
