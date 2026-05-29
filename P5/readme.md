@@ -32,22 +32,33 @@ Para capturar la atención biométrica se configuró la herramienta **GazeMappin
 ### Diseño de las Pruebas
 Hemos diseñado cuatro tareas críticas que los usuarios deberán resolver:
 1. **Encuentra el enlace a Instagram del restaurante desde la página principal**
+<br>
    * **Escenario planteado**: "Estás buscando opiniones y fotos de los platos del restaurante antes de decidir si ir. Intenta localizar el enlace oficial a la cuenta de Instagram desde la página principal."
    * **Localización**: footer.
    * **Objetivo**: Ver si los usuarios son capaces de descubrir en qué lugar de la página se encuentran los enlaces a redes sociales.
-2. **Encuentra el precio de algún producto de la carta** Se encuentran en las tarjetas de los productos de la carta.
+<br>
+<br>
+2. **Encuentra el precio de algún producto de la carta** 
+<br>
    * **Escenario planteado**: "Estás navegando por la página, decidiendo qué pedir y buscas el precio de algún producto concreto."
    * **Localización**: Tarjetas de producto de la carta.
    * **Objetivo**: Validar el diseño de los componentes de la carta. Se analiza si el precio destaca lo suficiente dentro de la tarjeta o si sufre de ceguera visual frente a la fotografía y el nombre del plato.
+<br>
+<br>
 3. **Encuentra la ubicación del local**
+<br>
    * **Escenario planteado**: "Has estado mirando la carta y te ha convencido el local. Buscas la ubicación para ver cómo de cerca te pilla."
    * **Localización**: Bloque inferior de la página principal (Homepage).
    * **Objetivo**: Verificar si la información de contacto y geolocalización es fácil de encontrar mediante un escaneo rápido de la página de inicio o si compite visualmente con otros elementos decorativos.
+<br>
+<br>
 4. **Encuentra el botón "RESERVAR"**
+<br>
    * **Escenario planteado**: "Te has decidido por ir y quieres reservar una mesa para ir con tus amigos. Encuentra la vía más rápida para iniciar el proceso de reserva online desde la pantalla en la que te encuentras.
    * **Localización**: Barra de navegación superior (Header) y página principal.
    * **Objetivo**: Comprobar la efectividad del Call To Action (CTA) principal.
 
+<br>
 ### Definición de Puntos de Interés (POI / AOI)
 Se monitorizaron mediante zonas de fijación específicas:
 * El logo
@@ -55,6 +66,9 @@ Se monitorizaron mediante zonas de fijación específicas:
 * Los enlaces del footer.
 * El precio y el nombre de los productos de la carta.
 * Los apartados de la carta.
+
+<br>
+<br>
 
 A continuación se muestran los resultados obtenidos en las pruebas de Eye Tracking:
 
