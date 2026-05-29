@@ -49,6 +49,7 @@ Hemos diseñado cuatro tareas críticas que los usuarios deberán resolver:
    * **Objetivo**: Comprobar la efectividad del Call To Action (CTA) principal. 
 
 <br>
+
 ### Definición de Puntos de Interés (POI / AOI)
 Se monitorizaron mediante zonas de fijación específicas:
 * El logo
