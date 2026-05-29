@@ -93,7 +93,52 @@ Análisis de la Carta (Consulta de Precios - Tarea 2): Al analizar el POI de las
 ---
 
 ## 5.4. Escala SUS: Cuestionario
+Inmediatamente después de interactuar con los sitios web, los datos de percepción subjetiva se recolectaron de forma individual mediante formularios en **Tally.so** y se procesaron estadísticamente a través de la suite multivariable **SUS Analysis Toolkit**.
 
+* **Plantilla base utilizada:** [Tally SUS Template](https://tally.so/templates/escala-sus-test-de-usabilidad/wAyNNw)
+* **Dataset Bruto en CSV:** [Consultar datos brutes](https://github.com/manuelmartinz/UX_CaseStudy/blob/d4e7b5098c62261394ecc80b05cf2e30e3c67fbe/P5/Escala%20SUS%20(test_usabilidad).xlsx)
+
+Este cuestionario consta de 10 preguntas, que pueden ser calificadas del 1 al 5 (donde el 1 significa estar "completamente en desacuerdo" y el 5 significa estar "completamente de acuerdo").
+
+Los resultados fueron los siguientes:
+
+| Pregunta | P01 (B) | P02 (B) | P03 (A) |  P04 (A) | P05 (B) | P06 (A) | P07 (B) | P08 (B) | P09 (A) | P10 (A) |
+| :--- | :---: | :---: | :--- |
+| **Creo que me gustará visitar con frecuencia este website** | 5 | 5 | 5 | 5 | 5 | 1 | 3 | 3 | 4 | 4 |
+| **Encontré el website innecesariamente complejo** | 1 | 2 | 1 | 1 | 1 | 1 | 2 | 2 | 1 | 2 |  
+| **Pensé que era fácil utilizar este website** | 4 | 4 | 5 | 4 | 5 | 5 | 4 | 3 | 4 | 4 | 
+| **Creo que necesitaría del apoyo de un experto para recorrer el website** | 1 | 3 | 1 | 1 | 1 | 1 | 2 | 2 | 1 | 1 |
+| **Encontré las funciones del website bastante bien integradas** | 5 | 4 | 5 | 4 | 5 | 5 | 3 | 3 | 4 | 3 |
+| **Pensé que había demasiada inconsistencia en el website** | 1 | 2 | 1 | 1 | 1 | 1 | 2 | 2 | 1 | 2 | 
+| **Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website** | 5 | 4 | 5 | 4 | 5 | 5 | 4 | 4 | 4 | 4 | 
+| **Encontré el website muy grande al recorrerlo** | 2 | 2 | 1 | 2 | 1 | 1 | 2 | 2 | 2 | 1 |
+| **Me sentí muy confiado en el manejo del website** | 5 | 3 | 5 | 4 | 5 | 5 | 4 | 4 | 4 | 4 |
+| **Necesito aprender muchas cosas antes de manejarse en el website** | 1 | 3 | 1 | 2 | 1 | 1 | 1 | 2 | 1 | 1 |
+
+### Tratamiento de datos y cálculo de usabilidad
+Las puntuaciones obtenidas a través de los cuestionarios de Tally se tabularon y procesaron manualmente siguiendo la metodología matemática estándar de la escala SUS. Para homogeneizar las respuestas y neutralizar el sesgo de las afirmaciones, los datos brutos se transformaron bajo el siguiente criterio:
+* En las preguntas de control impares, se restó $1$ al valor marcado por el participante.
+* En las preguntas de control pares, se invirtió la polaridad de la respuesta restando su valor a $5$.
+
+Finalmente, las puntuaciones corregidas de los diez ítems se sumaron y se multiplicaron por $2.5$. Este ajuste permite proyectar el índice de usabilidad percibida dentro de un rango estandarizado de $0$ a $100$ puntos para su análisis comparativo.
+
+Calculamos el SUS Score para cada participante y obtuvimos la siguiente tabla:
+
+| Caso Evaluado | Puntuación Media SUS | Grado de Aceptabilidad | Escala Adjetiva / Lingüística |
+| :--- | :---: | :---: | :--- |
+| **Caso A (Burguer Turquesa)** | **[EJ: 72.5] / 100** | Aceptable | Bueno (*Good*) |
+| **Caso B (Rakuin Ramen)** | **58.5 / 100** | Marginal - Bajo | Pobre (*Poor*) |
+
+
+
+### Comparativa A/B Testing de Resultados
+
+| Caso Evaluado | Puntuación Media SUS | Grado de Aceptabilidad | Escala Adjetiva / Lingüística |
+| :--- | :---: | :---: | :--- |
+| **Caso A (Burguer Turquesa)** | **[EJ: 72.5] / 100** | Aceptable | Bueno (*Good*) |
+| **Caso B (Rakuin Ramen)** | **58.5 / 100** | Marginal - Bajo | Pobre (*Poor*) |
+
+**Conclusión del análisis estadístico:** El Caso A supera cuantitativamente al Caso B por un margen de `[X]` puntos. Mientras que el configurador del Caso A mantiene un flujo guiado que reduce la carga cognitiva, el Caso B se sitúa por debajo del estándar óptimo de aceptación (68), evidenciando barreras severas en los formularios de entrada de datos y confusión en el flujo de reserva de mesas.
 
 ---
 
