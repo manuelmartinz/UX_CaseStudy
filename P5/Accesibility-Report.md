@@ -4,12 +4,10 @@
 
 ## 1. Ficha Técnica del Informe
 
-Antes de entrar en detalles, define el alcance.
-
-- **Nombre del proyecto:** (Diseño A o Diseño B).
-- **Normativa de referencia:** WCAG 2.1 o 2.2 (Nivel AA).
-- **Herramientas utilizadas:** (Ej: Lighthouse, WAVE, axe DevTools).
-- **Fecha de la auditoría:** El estado de la web cambia, es vital poner fecha.
+- **Nombre del proyecto:** Anime Ramen (Caso B - DIU1 PGDuo).
+- **Normativa de referencia:** WCAG 2.2 (Nivel AA) / Norma UNE-EN 301549.
+- **Herramientas utilizadas:** Lighthouse y WAVE.
+- **Fecha de la auditoría:** 29/5/2026.
 
 
 
