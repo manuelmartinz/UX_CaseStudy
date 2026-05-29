@@ -164,6 +164,6 @@ Se ha ejecutado un estudio de accesibilidad sobre la propuesta de los compañero
 ## 5.6 Usuability Report Caso B
 Finalizaremos con un un informe de usabilidad que unifica los resultados de los mapas de calor biométricos generados en GazeMapping, las calificaciones del cuestionario SUS y las propuestas de rediseño organizadas por prioridad de impacto (Alta, Media y Baja).
 
-[Estudio de usabilidad](https://github.com/manuelmartinz/UX_CaseStudy/blob/ca66dcd1c6291d65aedbf456e3a0aa13fe7bdf74/P5/Usability-Report.md).
+[Estudio de usabilidad del caso B](https://github.com/manuelmartinz/UX_CaseStudy/blob/ca66dcd1c6291d65aedbf456e3a0aa13fe7bdf74/P5/Usability-Report.md).
 
 ---
