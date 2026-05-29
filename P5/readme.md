@@ -10,7 +10,7 @@ El muestreo combina perfiles de co-evaluación (grupo de clase) y usuarios exter
 **Tabla de Usuarios**
 
 | ID | Sexo/Edad | Ocupación | Competencia Digital (Exp. TIC) | Personalidad | Plataforma | Caso | Factores Técnicos (Gafas/Luz) |
-| :---: | :---: | :--- | :---: | :--- | :---: | :---: | :--- | :--- |
+| :---: | :---: | :--- | :---: | :--- | :---: | :---: | :--- |
 | **P01** | H / 43 | Administrativo | Media | Práctico | Web | **B** | Gafas / Luz artificial |
 | **P02** | M / 29 | Analista de datos | Alta | Creativa | Web | **B** | Ninguno / Luz artificial |
 | **P03** | H / 53 | Profesor | Media | Analítico | Web | **A** | Lentillas / Luz artificial |
