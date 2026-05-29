@@ -157,7 +157,7 @@ Sin embargo, el Caso A (Goiko) se corona como el diseño más optimizado del exp
 
 Se ha ejecutado un estudio de accesibilidad sobre la propuesta de los compañeros utilizando herramientas automatizadas de diagnóstico como **Google Lighthouse** y **WAVE** (Web Accessibility Evaluation Tool). El análisis segmenta los hallazgos técnicos en base a los cuatro pilares fundamentales de las directrices **WCAG 2.2 (Nivel AA)**: Perceptible, Operable, Comprensible y Robusto.
 
-[Estudio de accesibilidad del caso B](https://github.com/manuelmartinz/UX_CaseStudy/blob/8388c572a5fc77ad96f55c5e5fa2c4011c7660a9/P5/Acceibility-Report.md).
+[Estudio de accesibilidad del caso B](https://github.com/manuelmartinz/UX_CaseStudy/blob/7f549638c27b588864fe491d6f4f0d1d45f4f270/P5/Accesibility-Report.md).
 
 ---
 
