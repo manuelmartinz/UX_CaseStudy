@@ -31,29 +31,29 @@ Para capturar la atención biométrica se configuró la herramienta **GazeMappin
 
 ### Diseño de las Pruebas
 Hemos diseñado cuatro tareas críticas que los usuarios deberán resolver:
-1. **Encuentra el enlace a Instagram del restaurante desde la página principal**
+1. **Encontrar el enlace a Instagram del restaurante desde la página principal**
    * **Escenario planteado**: "Estás buscando opiniones y fotos de los platos del restaurante antes de decidir si ir. Intenta localizar el enlace oficial a la cuenta de Instagram desde la página principal."
    * **Localización**: footer.
    * **Objetivo**: Ver si los usuarios son capaces de descubrir en qué lugar de la página se encuentran los enlaces a redes sociales.
 
 <br>
 
-2. **Encuentra el precio de algún producto de la carta** 
+2. **Encontrar el precio de algún producto de la carta** 
    * **Escenario planteado**: "Estás navegando por la página, decidiendo qué pedir y buscas el precio de algún producto concreto."
    * **Localización**: Tarjetas de producto de la carta.
    * **Objetivo**: Validar el diseño de los componentes de la carta. Se analiza si el precio destaca lo suficiente dentro de la tarjeta o si sufre de ceguera visual frente a la fotografía y el nombre del plato.
 
 <br>
 
-3. **Encuentra la ubicación del local**
+3. **Encontrar la ubicación del local**
    * **Escenario planteado**: "Has estado mirando la carta y te ha convencido el local. Buscas la ubicación para ver cómo de cerca te pilla."
    * **Localización**: Bloque inferior de la página principal (Homepage).
    * **Objetivo**: Verificar si la información de contacto y geolocalización es fácil de encontrar mediante un escaneo rápido de la página de inicio o si compite visualmente con otros elementos decorativos.
 
 <br>
 
-4. **Encuentra el botón "RESERVAR"**
-   * **Escenario planteado**: "Te has decidido por ir y quieres reservar una mesa para ir con tus amigos. Encuentra la vía más rápida para iniciar el proceso de reserva online desde la pantalla en la que te encuentras.
+4. **Encontrar el botón "RESERVA"**
+   * **Escenario planteado**: "Te has decidido por ir y quieres reservar una mesa para ir con tus amigos. Encuentra la vía más rápida para iniciar el proceso de reserva online desde la pantalla en la que te encuentras."
    * **Localización**: Barra de navegación superior (Header) y página principal.
    * **Objetivo**: Comprobar la efectividad del Call To Action (CTA) principal. 
 
@@ -89,6 +89,8 @@ Los participantes han completado las tareas sin ningún tipo de asistencia.
 El mapa de calor resultante muestra un patrón de fijación altamente disperso. Al buscar el botón "RESERVAR" en el header (Tarea 4) o la dirección en el footer (Tarea 3), la mirada de los participantes se detuvo de manera caótica en elementos puramente decorativos de la web (como fondos texturizados o imágenes secundarias). Aunque acabaron localizando los elementos de conversión de forma autónoma. El elevado número de saltos de la mirada demuestra una falta de limpieza visual que compite directamente con los Call to Action (CTA).
 
 Análisis de la Carta (Consulta de Precios - Tarea 2): Al analizar el POI de las tarjetas de los platos, la atención visual se monopoliza casi por completo en las fotografías de la comida. El precio del producto sufre de un ligero retraso en la primera fijación, confirmando que, aunque los usuarios encuentran el coste sin ayuda, el diseño actual genera distracción periférica.
+
+---
 
 5.4. Escala SUS: Cuestionario
 
