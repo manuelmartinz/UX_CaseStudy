@@ -8,7 +8,7 @@
 
 27/05/2026
 
-<img width="1869" height="866" alt="image" src="https://github.com/user-attachments/assets/baee20de-4e3a-49ed-b31e-051eeb3c6fb0" />
+![Anime Ramen main page](https://github.com/manuelmartinz/UX_CaseStudy/blob/ae0057ca266068721956ea8a43eb000efb5f5dd5/img/anime_ramen.png)
 
 
 https://github.com/DIU1PGDuo/UX_CaseStudy
