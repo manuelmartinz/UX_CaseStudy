@@ -11,7 +11,8 @@
 ![Anime Ramen main page](https://github.com/manuelmartinz/UX_CaseStudy/blob/ae0057ca266068721956ea8a43eb000efb5f5dd5/img/anime_ramen.png)
 
 
-https://github.com/DIU1PGDuo/UX_CaseStudy
+* **Repositorio:** [PGDuo](https://github.com/DIU1PGDuo/UX_CaseStudy)
+* **Sitio web:** [Enlace](https://hide-eject-71993137.figma.site/)
 
 ### Realizado por:  
 
