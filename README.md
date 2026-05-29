@@ -340,22 +340,23 @@ Configuración de la hamburguesa:
 [Nuestra web](https://dew-rinse-96898431.figma.site)
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
+* **Caso Asignado (B):** [DIU1 PGDuo - Rakuin Ramen](https://github.com/DIU1PGDuo/UX_CaseStudy.git)
 
+El caso asignado 
 
-| Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
-|---|---|---|---|---|---|---|
-| P03 | H / 53 | Profesor | Media | Analítico | Web | A |
-| P04 | M / 44 | Trabajadora autónoma | Media | Observadora | Web | A |
-| P06 | M / 21 | Estudiante de Ingeniería Informática | Alta | Creativa | Web | A |
-| P09 | M / 67 | Jubilada | Baja | Tranquila | Web | A |
-| P10 | H / 19 | Estudiante de Ingeniería Informática | Media | Introvertido | Web | A |
-| P01 | H / 43 | Administrativo | Media | Práctico | Web | B |
-| P02 | M / 29 | Analista de datos | Alta | Creativa | Web | B |
-| P05 | H / 20 | Estudiante de Ingeniería Informática | Alta | Curioso | Web | B |
-| P07 | H / 33 | Ingeniero Agrónomo | Media | Intuitivo | Web | B |
-| P08 | H / 21 | Estudiante de Ingeniería Informática | Alta | Activo | Web | B |
+| ID | Sexo/Edad | Ocupación | Competencia Digital (Exp. TIC) | Personalidad | Plataforma | Caso | Factores Técnicos (Gafas/Luz) |
+| :---: | :---: | :--- | :---: | :--- | :---: | :---: | :--- | :--- |
+| **P01** | H / 43 | Administrativo | Media | Práctico | Web | **B** | Gafas / Luz artificial |
+| **P02** | M / 29 | Analista de datos | Alta | Creativa | Web | **B** | Ninguno / Luz artificial |
+| **P03** | H / 53 | Profesor | Media | Analítico | Web | **A** | Lentillas / Luz artificial |
+| **P04** | M / 44 | Trabajadora autónoma | Media | Observadora | Web | **A** | Gafas / Luz natural |
+| **P05** | H / 20 | Estudiante Ing. Informática | Alta | Introvertido | Web | **B** | Gafas / Luz artificial |
+| **P06** | M / 21 | Estudiante Ing. Informática | Alta | Creativa | Web | **A** | Ninguno / Luz artificial |
+| **P07** | H / 33 | Ingeniero Agrónomo | Media | Intuitivo | Web | **B** | Gafas / Luz natural |
+| **P08** | H / 21 | Estudiante Ing. Informática | Alta | Activo | Web | **B** | Ninguno / Luz artificial |
+| **P09** | M / 67 | Jubilada | Baja | Tranquila | Web | **A** | Gafas / Luz natural tenue |
+| **P10** | H / 19 | Estudiante Ing. Informática | Media | Curioso | Web | **A** | Ninguno / Luz artificial |
 
 
 
@@ -368,25 +369,44 @@ Prueba 2: “Encuentra el precio de algún producto de la carta.”
 Prueba 3: “Encuentra la ubicación del local.”  
 Prueba 4: “Encuentra el botón "RESERVAR".”  
 
+A continuación se muestran los resultados obtenidos en las pruebas de Eye Tracking:
 
+| Prueba | P02 | P05 | P07 |
+| :---: | :---: | :---: | :---: |
+| **Encontrar el enlace a instagram** | ![HeatMap de buscar Instagram](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_instagram.png) | ![HeatMap de buscar Instagram](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_instagram.png) | ![HeatMap de buscar Instagram](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_instagram.png) |
+| **Encontrar el precio de un producto** | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_precio.png) | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_precio.png) | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_precio.png) |
+| **Encontrar la ubicación del local** | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_ubicacion.png) |
+| **Encontrar el botón de reservar** | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_reserva.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_reservar.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_reservar.png) |
 
+Por limitaciones de la aplicación utilizada para el Eye Tracking, las pruebas solo se han podido realizar a tres de los participantes involucrados en la evaluación de la página.
+
+Aun así, los participantes han completado todas las tareas sin ningún tipo de asistencia.
 
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Inmediatamente después de interactuar con los sitios web, los datos de percepción subjetiva se recolectaron de forma individual mediante formularios en **Tally.so** y se procesaron estadísticamente a través de la suite multivariable **SUS Analysis Toolkit**.
+
+* **Plantilla base utilizada:** [Tally SUS Template](https://tally.so/templates/escala-sus-test-de-usabilidad/wAyNNw)
+* **Dataset resultados:** [Consultar datos](https://github.com/manuelmartinz/UX_CaseStudy/blob/d4e7b5098c62261394ecc80b05cf2e30e3c67fbe/P5/Escala%20SUS%20(test_usabilidad).xlsx)
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Obtuvimos los siguientes resultados:
+| Caso Evaluado | Puntuación Media SUS | Grado de Aceptabilidad | Escala Lingüística | Clasificación |
+| :--- | :---: | :---: | :--- | :---: |
+| **Caso A (Goiko)** | **88.0 / 100** | ACEPTABLE | Excelente | **A** |
+| **Caso B (Anime Ramen)** | **81.0 / 100** | ACEPTABLE | Excelente | **A** |
+
+Tras el análisis agregado de los datos cuantitativos y biométricos, se determina con total claridad que el Caso A (Goiko) es la alternativa más usable.
+
+Aunque ambos proyectos se sitúan de forma sobresaliente en la franja de excelencia (Clasificación A), Goiko aventaja a Anime Ramen por un margen de 7 puntos en la escala SUS y demuestra un rendimiento superior en las tres dimensiones analizadas en la matriz.
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
