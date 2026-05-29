@@ -346,7 +346,7 @@ Configuración de la hamburguesa:
 El caso asignado 
 
 | ID | Sexo/Edad | Ocupación | Competencia Digital (Exp. TIC) | Personalidad | Plataforma | Caso | Factores Técnicos (Gafas/Luz) |
-| :---: | :---: | :--- | :---: | :--- | :---: | :---: | :--- | :--- |
+| :---: | :---: | :--- | :---: | :--- | :---: | :---: | :--- |
 | **P01** | H / 43 | Administrativo | Media | Práctico | Web | **B** | Gafas / Luz artificial |
 | **P02** | M / 29 | Analista de datos | Alta | Creativa | Web | **B** | Ninguno / Luz artificial |
 | **P03** | H / 53 | Profesor | Media | Analítico | Web | **A** | Lentillas / Luz artificial |
@@ -358,8 +358,7 @@ El caso asignado
 | **P09** | M / 67 | Jubilada | Baja | Tranquila | Web | **A** | Gafas / Luz natural tenue |
 | **P10** | H / 19 | Estudiante Ing. Informática | Media | Curioso | Web | **A** | Ninguno / Luz artificial |
 
-
-
+----
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
@@ -382,6 +381,7 @@ Por limitaciones de la aplicación utilizada para el Eye Tracking, las pruebas s
 
 Aun así, los participantes han completado todas las tareas sin ningún tipo de asistencia.
 
+----
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
