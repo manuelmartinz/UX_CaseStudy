@@ -96,7 +96,7 @@ En el análisis de la Carta (Consulta de Precios - Tarea 2), al observar el POI 
 Inmediatamente después de interactuar con los sitios web, los datos de percepción subjetiva se recolectaron de forma individual mediante formularios en **Tally.so** y se procesaron estadísticamente a través de la suite multivariable **SUS Analysis Toolkit**.
 
 * **Plantilla base utilizada:** [Tally SUS Template](https://tally.so/templates/escala-sus-test-de-usabilidad/wAyNNw)
-* **Dataset Bruto en CSV:** [Consultar datos](https://github.com/manuelmartinz/UX_CaseStudy/blob/d4e7b5098c62261394ecc80b05cf2e30e3c67fbe/P5/Escala%20SUS%20(test_usabilidad).xlsx)
+* **Dataset resultados:** [Consultar datos](https://github.com/manuelmartinz/UX_CaseStudy/blob/d4e7b5098c62261394ecc80b05cf2e30e3c67fbe/P5/Escala%20SUS%20(test_usabilidad).xlsx)
 
 Este cuestionario consta de 10 preguntas, que pueden ser calificadas del 1 al 5 (donde el 1 significa estar "completamente en desacuerdo" y el 5 significa estar "completamente de acuerdo").
 
