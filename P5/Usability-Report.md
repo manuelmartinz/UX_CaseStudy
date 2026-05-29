@@ -11,27 +11,34 @@
 ![Anime Ramen main page](https://github.com/manuelmartinz/UX_CaseStudy/blob/ae0057ca266068721956ea8a43eb000efb5f5dd5/img/anime_ramen.png)
 
 
-* **Repositorio:** [PGDuo](https://github.com/DIU1PGDuo/UX_CaseStudy)
-* **Sitio web:** [Enlace](https://hide-eject-71993137.figma.site/)
+* **Repositorio del proyecto co-evaluado:** [PGDuo](https://github.com/DIU1PGDuo/UX_CaseStudy)
+* **Sitio web:** [Enlace a figma](https://hide-eject-71993137.figma.site/)
 
 ### Realizado por:  
 
-Manuel Martínez Herrera
+* Manuel Martínez Herrera
+* Lola Lorite Díaz
 
-Lola Lorite Díaz
-
-
- 
-
+----
 
 ## 1 RESUMEN EJECUTIVO  (Executive Summary)
 
-[ Es la sección más importante para los interesados (stakeholders). Debe ocupar una sola página] .
+- **Objetivo:** Este informe evalúa la usabilidad y accesibilidad de la plataforma web de restauración **Anime Ramen** (Caso B) con el fin de verificar la eficacia de sus flujos de navegación y garantizar una experiencia de usuario óptima antes de su despliegue final.
 
-- **Objetivo:** ¿Qué evaluamos y por qué?
-- **Metodología:** Breve mención del A/B Testing, SUS y Eye Tracking.
+<br>
+
+- **Metodología:** Se ha implementado un enfoque de pruebas de usabilidad mixtas. Las métricas cuantitativas de percepción se obtuvieron mediante el cuestionario estandarizado **SUS** (System Usability Scale) y formularios en Tally.so. Los datos cualitativos biométricos se recopilaron a través del análisis de mapas de calor visuales con la herramienta de Eye Tracking **GazeMapping**. Finalmente, el cumplimiento técnico se validó con las herramientas de accesibilidad automática **Lighthouse** y **WAVE** bajo las directrices WCAG 2.2 Nivel AA.
+
+<br>
+
 - **Principales Hallazgos:** Los 3 puntos más críticos encontrados.
-- **Resultado Global:** Puntuación SUS media y si el diseño es "Aceptable" o no.
+  1. *Falta de limpieza visual en elementos críticos:* Los mapas de calor demuestran una fijación muy dispersa en la Home debido a que los fondos texturizados e imágenes secundarias compiten con los botones de acción primarios (*Call To Action*).
+  2. *Ceguera visual periférica en la carta:* Al consultar el menú, la atención visual de los usuarios es acaparada por las imágenes de los platos, sufriendo un retraso en la localización de los precios y los títulos debido a su reducido tamaño tipográfico.
+  3. *Ausencia de marcas de navegación semántica:* El análisis automático de accesibilidad reporta una falta crítica de regiones estructurales (`<header>`, `<main>`, `<footer/>`) y de jerarquía de encabezados, impidiendo una navegación por teclado accesible.
+
+<br>
+
+- **Resultado Global:** La puntuación media SUS obtenida por Anime Ramen es de **81.0 / 100**. Este resultado sitúa al diseño dentro de la franja de **Aceptable (Clasificación A / Excelente)**. Aunque es una interfaz altamente usable, requiere correcciones de diseño visual para consolidar la fluidez de sus interacciones.
 
 
 ## 2. Metodología y Reclutamiento
@@ -64,12 +71,21 @@ Para el desarrollo de la investigación se utilizaron distintas herramientas de 
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
-[Aquí se muestran datos del análisis multivariable de SUS] 
+Tras procesar los datos de las respuestas individuales y neutralizar las inversiones de polaridad en las preguntas pares, los resultados estadísticos promediados de la escala System Usability Scale (SUS) reflejan la siguiente situación:
 
-- **Comparativa A vs. B:** Un gráfico de barras comparando la puntuación final de ambos diseños.
-- **Desglose por ítems:** Identifica qué preguntas del SUS tuvieron peor puntuación (por ejemplo, si la pregunta 2 sobre "complejidad" fue muy alta en el Diseño B).
+### Comparativa General A vs. B
+* **Caso A (Goiko):** **88.0 / 100** | Grado: Aceptable | Clasificación: **A**
+* **Caso B (Anime Ramen):** **81.0 / 100** | Grado: Aceptable | Clasificación: **A**
 
-Valoración numérica del SUS - 
+### Desglose por Ítems y Debilidades
+El análisis multivariable revela que las preguntas con peor puntuación en el **Caso B (Anime Ramen)** se concentraron en los siguientes ítems:
+* **Pregunta 2 (Complejidad percibida):** Los usuarios P02, P07 y P08 anotaron una puntuación superior a la media en este control de inconsistencia. Ello indica que percibieron ciertas zonas de la navegación web con una sobrecarga visual innecesaria.
+* **Pregunta 4 (Necesidad de soporte técnico):** Se experimentó una caída de rendimiento en el participante P02 (marcando un valor de 3), originada por la dificultad para encontrar de manera directa los enlaces de contacto e información de cierre en el footer.
+
+A pesar de estas pequeñas desviaciones, el 81.0 de media global confirma que la estructura de la aplicación es sólida y se encuentra muy por encima del aprobado estándar de usabilidad (68 puntos).
+
+
+# **FALTA EL DIAGRAMA**
 
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
