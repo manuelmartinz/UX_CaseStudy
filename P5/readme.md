@@ -1,5 +1,5 @@
 # Practica 5: Exportación + Documentación - entregables 
-* **Caso Asignado (B):** [DIU1 PGDuo - Rakuin Ramen](https://github.com/DIU1PGDuo/UX_CaseStudy.git)
+* **Caso Asignado (B):** [DIU1 PGDuo - Anime Ramen](https://github.com/DIU1PGDuo/UX_CaseStudy.git)
 
 ## 5.1. Plan de reclutamiento de participantes
 
@@ -124,10 +124,27 @@ Finalmente, las puntuaciones corregidas de los diez ítems se sumaron y se multi
 
 Calculamos el SUS Score para cada participante y obtuvimos la siguiente tabla:
 
+| ID | Caso | SUS Score | Evaluación Lingüística |
+| :---: | :---: | :---: | :---: |
+| **P01** | **B** | 95 | Excelente |
+| **P02** | **B** | 70 |  |
+| **P03** | **A** | 100 | Excelente |
+| **P04** | **A** | 85 |  |
+| **P05** | **B** | 100 | Excelente |
+| **P06** | **A** | 90 |  |
+| **P07** | **B** | 72.5 |  |
+| **P08** | **B** | 67.5 | Suficiente |
+| **P09** | **A** | 85 |  |
+| **P10** | **A** | 80 |  |
+
+<br>
+
+Finalmente, obtenemos los resultados para cada caso:
+
 | Caso Evaluado | Puntuación Media SUS | Grado de Aceptabilidad | Escala Adjetiva / Lingüística |
 | :--- | :---: | :---: | :--- |
-| **Caso A (Burguer Turquesa)** | **[EJ: 72.5] / 100** | Aceptable | Bueno (*Good*) |
-| **Caso B (Rakuin Ramen)** | **58.5 / 100** | Marginal - Bajo | Pobre (*Poor*) |
+| **Caso A (Goiko)** | **88 / 100** | Aceptable | Bueno (*Good*) |
+| **Caso B (Anime Ramen)** | **81 / 100** | Marginal - Bajo | Pobre (*Poor*) |
 
 
 
