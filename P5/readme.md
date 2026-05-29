@@ -82,13 +82,13 @@ A continuación se muestran los resultados obtenidos en las pruebas de Eye Track
 ---
 
 ## 5.3. Evaluación caso B
-Por limitaciones de la aplicación utilizada para el Eye Tracking, las pruebas se han podido realizar a tres de los participantes involucrados en la evaluación de la página. 
+Por limitaciones de la aplicación utilizada para el Eye Tracking, las pruebas solo se han podido realizar a tres de los participantes involucrados en la evaluación de la página.
 
-Los participantes han completado las tareas sin ningún tipo de asistencia.
+Aun así, los participantes han completado todas las tareas sin ningún tipo de asistencia.
 
-El mapa de calor resultante muestra un patrón de fijación altamente disperso. Al buscar el botón "RESERVAR" en el header (Tarea 4) o la dirección en el footer (Tarea 3), la mirada de los participantes se detuvo de manera caótica en elementos puramente decorativos de la web (como fondos texturizados o imágenes secundarias). Aunque acabaron localizando los elementos de conversión de forma autónoma. El elevado número de saltos de la mirada demuestra una falta de limpieza visual que compite directamente con los Call to Action (CTA).
+El mapa de calor resultante muestra un patrón de fijación altamente disperso. Al buscar el botón "RESERVAR" en el header (Tarea 4) o la dirección en el footer (Tarea 3), la mirada de los usuarios se detuvo de manera caótica en elementos puramente decorativos de la web, como los fondos texturizados o las imágenes secundarias. Aunque acabaron localizando los elementos de conversión de forma autónoma, el elevado número de saltos de la mirada demuestra una falta de limpieza visual que compite directamente con los Call to Action (CTA).
 
-Análisis de la Carta (Consulta de Precios - Tarea 2): Al analizar el POI de las tarjetas de los platos, la atención visual se monopoliza casi por completo en las fotografías de la comida. El precio del producto sufre de un ligero retraso en la primera fijación, confirmando que, aunque los usuarios encuentran el coste sin ayuda, el diseño actual genera distracción periférica.
+En el análisis de la Carta (Consulta de Precios - Tarea 2), al observar el POI de las tarjetas de los platos, la atención visual se centra casi por completo en las fotografías de la comida. El precio del producto sufre de un ligero retraso en la primera fijación, lo que confirma que, aunque los usuarios encuentran el coste sin ayuda, el diseño actual genera distracción periférica.
 
 ---
 
