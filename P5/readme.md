@@ -124,132 +124,46 @@ Finalmente, las puntuaciones corregidas de los diez ítems se sumaron y se multi
 
 Calculamos el SUS Score para cada participante y obtuvimos la siguiente tabla:
 
-| ID | Caso | SUS Score | Evaluación Lingüística |
-| :---: | :---: | :---: | :---: |
-| **P01** | **B** | 95 | Excelente |
-| **P02** | **B** | 70 |  |
-| **P03** | **A** | 100 | Excelente |
-| **P04** | **A** | 85 |  |
-| **P05** | **B** | 100 | Excelente |
-| **P06** | **A** | 90 |  |
-| **P07** | **B** | 72.5 |  |
-| **P08** | **B** | 67.5 | Suficiente |
-| **P09** | **A** | 85 |  |
-| **P10** | **A** | 80 |  |
+| ID | Caso | SUS Score | Evaluación Lingüística | Clasificación |
+| :---: | :---: | :---: | :---: | :---: |
+| **P01** | **B** | 95.0 | Excelente | **A** |
+| **P02** | **B** | 70.0 | Buena | **C** |
+| **P03** | **A** | 100.0 | Excelente | **A** |
+| **P04** | **A** | 85.0 | Excelente | **A** |
+| **P05** | **B** | 100.0 | Excelente | **A** |
+| **P06** | **A** | 90.0 | Excelente | **A** |
+| **P07** | **B** | 72.5 | Buena | **C** |
+| **P08** | **B** | 67.5 | Aceptable pero débil | **D** |
+| **P09** | **A** | 85.0 | Excelente | **A** |
+| **P10** | **A** | 80.0 | Buena | **C** |
 
 <br>
 
+### Comparativa A/B Testing de Resultados
 Finalmente, obtenemos los resultados para cada caso:
 
-| Caso Evaluado | Puntuación Media SUS | Grado de Aceptabilidad | Escala Adjetiva / Lingüística |
-| :--- | :---: | :---: | :--- |
-| **Caso A (Goiko)** | **88 / 100** | Aceptable | Bueno (*Good*) |
-| **Caso B (Anime Ramen)** | **81 / 100** | Marginal - Bajo | Pobre (*Poor*) |
+| Caso Evaluado | Puntuación Media SUS | Grado de Aceptabilidad | Escala Lingüística | Clasificación |
+| :--- | :---: | :---: | :--- | :---: |
+| **Caso A (Goiko)** | **88.0 / 100** | ACEPTABLE | Excelente | **A** |
+| **Caso B (Anime Ramen)** | **81.0 / 100** | ACEPTABLE | Excelente | **A** |
 
+**Conclusión del análisis estadístico:** Tras contrastar las métricas cuantitativas, ambos sistemas demuestran un rendimiento sobresaliente, situándose en la franja de Aceptable (Clasificación A / Excelente) al superar con creces el umbral crítico de 68 puntos.
 
-
-### Comparativa A/B Testing de Resultados
-
-| Caso Evaluado | Puntuación Media SUS | Grado de Aceptabilidad | Escala Adjetiva / Lingüística |
-| :--- | :---: | :---: | :--- |
-| **Caso A (Burguer Turquesa)** | **[EJ: 72.5] / 100** | Aceptable | Bueno (*Good*) |
-| **Caso B (Rakuin Ramen)** | **58.5 / 100** | Marginal - Bajo | Pobre (*Poor*) |
-
-**Conclusión del análisis estadístico:** El Caso A supera cuantitativamente al Caso B por un margen de `[X]` puntos. Mientras que el configurador del Caso A mantiene un flujo guiado que reduce la carga cognitiva, el Caso B se sitúa por debajo del estándar óptimo de aceptación (68), evidenciando barreras severas en los formularios de entrada de datos y confusión en el flujo de reserva de mesas.
+Sin embargo, el Caso A (Goiko) se corona como el diseño más optimizado del experimento con una media de 88/100, aventajando al Caso B (Anime Ramen) por un margen de $7$ puntos. Esta diferencia radica en que el problema de Anime Ramen es que algunos de sus CTA clave, como el precio o las fotos de la carta, son demasiado pequeños, lo que exige un mayor esfuerzo visual. Por el contrario, Goiko ofrece una interfaz mucho más intuitiva e impactante; sus CTA son claros y altamente destacables, logrando que el ojo del usuario no se distraiga con elementos secundarios ni tenga que esforzarse en procesar componentes de menor tamaño.
 
 ---
 
+## 5.5. Accesibility Report Caso B
 
+Se ha ejecutado un estudio de accesibilidad sobre la propuesta de los compañeros utilizando herramientas automatizadas de diagnóstico como **Google Lighthouse** y **WAVE** (Web Accessibility Evaluation Tool). El análisis segmenta los hallazgos técnicos en base a los cuatro pilares fundamentales de las directrices **WCAG 2.2 (Nivel AA)**: Perceptible, Operable, Comprensible y Robusto.
 
+[Estudio de accesibilidad del caso B](https://github.com/manuelmartinz/UX_CaseStudy/blob/8388c572a5fc77ad96f55c5e5fa2c4011c7660a9/P5/Acceibility-Report.md).
 
+---
 
+## 5.6 Usuability Report Caso B
+Finalizaremos con un un informe de usabilidad que unifica los resultados de los mapas de calor biométricos generados en GazeMapping, las calificaciones del cuestionario SUS y las propuestas de rediseño organizadas por prioridad de impacto (Alta, Media y Baja).
 
+[Estudio de usabilidad](https://github.com/manuelmartinz/UX_CaseStudy/blob/ca66dcd1c6291d65aedbf456e3a0aa13fe7bdf74/P5/Usability-Report.md).
 
-- Exportación a HTML/React
-- Documentación con Storybook
-- Autoevaluacion del diseño 
-Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu diseño
-- Conclusiones
-
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
-
-
-
-Protocolos de adaptación:
-
-Optimización de Eye Tracking: Si por limitaciones temporales o técnicas no fuera posible realizar el seguimiento ocular a toda la muestra, se priorizará esta prueba para un mínimo de 3 usuarios clave, garantizando así datos cualitativos suficientes para el análisis visual. Cualquier reducción en la muestra será debidamente justificada en el informe final. Tablas de datos: Recuerda que si un usuario evalúa A y B, sus respuestas en el SUS pueden estar sesgadas por la fatiga o por haber aprendido de la primera web. Asegúrate de que la mitad de esos usuarios pruebe primero la A y la otra mitad primero la B (Contrabalanceo).
-
-
-4. [Escala SUS: Cuestionario]
-Finalizada la evaluación por parte del usuario, debe rellenar el cuestionario SUS. El cuestionario está disponible en https://tally.so/. se puede usar la siguiente plantilla: https://tally.so/templates/escala-sus-test-de-usabilidad/wAyNNw
-
-Configuración del cuestionario , se puede hacer una copia del cuestionario y amplíar con preguntas demograficas comentadas en apartado 1 (reclutamiento) y que se pueden añadir al final del cuestionario.
-Rellenar datos por parte del usuario. Es importante que entienda claramente cómo responder al cuestionario.
-Análisis de resultados con SUS tools https://sus.tools/. Los datos JSON de los usuarios se pegan directamente en la herramienta https://sus.mixality.de/ como análisis multivariable (https://sus.mixality.de/) y se extraen conclusiones.
-PREGUNTAS	1	2	3	4	5
-1	Creo que me gustará visitar con frecuencia este website					
-2	Encontré el website innecesariamente complejo					
-3	Pensé que era fácil utilizar este website					
-4	Creo que necesitaría del apoyo de un experto para recorrer el website					
-5	Encontré las funciones del website bastante bien integradas					
-6	Pensé que había demasiada inconsistencia en el website					
-7	Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website					
-8	Encontré el website muy grande al recorrerlo					
-9	Me sentí muy confiado en el manejo del website					
-10	Necesito aprender muchas cosas antes de manejarse en el website					
-Información de cómo usar la escala SUS e interpretar los resultados (pasar a escala linguística): http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/
-
-[5. Evaluación de Accesibidad]
-Finalizaremos con un estudio de accesibilidad del caso B. Para incluir un informe de accesibilidad basado en herramientas automáticas y normativas de forma profesional teniendo en cuenta el cumplimiento técnico (relacionado con la forma de diseñar el software) y de la normativa legal (las pautas WCAG).
-
-El marco normativo para la web, el estándar es el WCAG (Web Content Accessibility Guidelines).
-
-Nivel de conformidad: Generalmente se busca el AA (el estándar legal para sitios públicos y empresas), Versión WCAG 2.1 o 2.2. Referencia: norma UNE-EN 301549
-Para realizar el análisis usaremos Herramientas Automáticas (debermos indicarlo en informe) como
-
-Lighthouse (Google): Para una puntuación rápida de accesibilidad.
-WAVE (Web Accessibility Evaluation Tool): Excelente para errores visuales y de contraste.
-El informe deberá organizar los resultados en esta 4 categorias:
-
-Categoría	Qué analizar (Ejemplos)
-Perceptible	Contraste de colores, texto alternativo en imágenes (alt), subtítulos.
-Operable	Navegación por teclado, tiempo suficiente para leer, evitar destellos.
-Comprensible	Idioma de la página definido, formularios claros, errores fáciles de corregir.
-Robusto	Código limpio (HTML válido) para que los lectores de pantalla funcionen.
-Un ejemplo de resultado sería:
-
-Perceptible:
-Error detectado: Falta de contraste en el botón de reservar.
-Criterio WCAG incumplido: "Criterio 1.4.3 - Contraste mínimo".
-Impacto: "Los usuarios con visión baja no pueden identificar la acción principal".
-Recomendación de mejora: "Cambiar el color del texto de gris claro a negro (#000000)".
-El informe debería dar una valoracion general de accesibilidad e incluir al menos 2-3 resultados identificados y clasificados adecuadamente.
-
-[6 USABILITY REPORT]
-Usar la plantilla Usability-report-template y completar los resultados para el CASO B siguiendo este formato recomendado
-
-Resumen ejecutivo (Executive Summary)
-Metodología y Reclutamiento
-Resultados del Cuestionario SUS (Datos Cuantitativos)
-Análisis de Eye Tracking (Datos Biométricos)
-Auditoría de Accesibilidad
-Conclusiones y Recomendaciones (Actionable Insights)
-Más información: 
-
-25 puntos clave de la usabilidad https://boluda.com/tutorial/25-puntos-clave-de-la-usabilidad/ 
-Resumen de herramientas usadas:
-Tally.so Cuestionarios online y SUS https://tally.so/
-
-Plantilla de cuestionario SUS: https://tally.so/templates/escala-sus-test-de-usabilidad/wAyNNw
-GazeMapping Eye tracking https://github.com/mgea/gazemapping
-
-FireShot, extensión de Chrome para captura de imágenes de sitios web https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=es
-
-SUS tools Análisis de resultados de escala SUS https://sus.tools/
-
-Lighthouse extensión de Chrome para accesibildad. https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es
-
-**WAVE ** Web Accessibility Evaluation Tools https://wave.webaim.org/
-
+---
