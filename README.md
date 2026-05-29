@@ -337,13 +337,13 @@ Configuración de la hamburguesa:
 ![Método UX](img/usability-testing.png)
 -----
 
-[Nuestra web](https://dew-rinse-96898431.figma.site)
+[Nuestra web (Caso A - Goiko)](https://dew-rinse-96898431.figma.site)
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
+Para la realización de estas pruebas, hemos seguido un modelo de entre-sujetos con una muestra de 10 usuarios distintos (distribuidos en 5 para el Caso A y 5 para el Caso B) para permitir un análisis comparativo robusto. El muestreo combina perfiles de co-evaluación (grupo de clase) y usuarios externos independientes para mitigar sesgos de aprendizaje.
 
-* **Caso Asignado (B):** [DIU1 PGDuo - Rakuin Ramen](https://github.com/DIU1PGDuo/UX_CaseStudy.git)
+* **Caso Asignado (B):** [DIU1 PGDuo - Rakuin Ramen](https://github.com/DIU1PGDuo/UX_CaseStudy.git). Consiste en la propuesta de diseño para un restaurante de ramen tradicional, evaluando su capacidad de conversión y claridad informativa.
 
-El caso asignado 
+**Tabla de Usuarios**
 
 | ID | Sexo/Edad | Ocupación | Competencia Digital (Exp. TIC) | Personalidad | Plataforma | Caso | Factores Técnicos (Gafas/Luz) |
 | :---: | :---: | :--- | :---: | :--- | :---: | :---: | :--- |
@@ -358,28 +358,33 @@ El caso asignado
 | **P09** | M / 67 | Jubilada | Baja | Tranquila | Web | **A** | Gafas / Luz natural tenue |
 | **P10** | H / 19 | Estudiante Ing. Informática | Media | Curioso | Web | **A** | Ninguno / Luz artificial |
 
+Los test de usuario y las capturas biométricas se ejecutaron de manera homogénea utilizando pantallas de portátiles de 14".
+
 ----
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 
-Prueba 1: “Encuentra el enlace a Instagram del restaurante desde la página principal.”   
-Prueba 2: “Encuentra el precio de algún producto de la carta.”  
-Prueba 3: “Encuentra la ubicación del local.”  
-Prueba 4: “Encuentra el botón "RESERVAR".”  
+Las pruebas se han estructurado en torno a **3 dimensiones críticas de interacción**. Han sido diseñadas para evaluar cómo reaccionarían los participantes en un uso "normal" y cotidiano de la página, simulando el flujo real de un cliente que busca redes sociales, consulta precios, localiza el establecimiento y efectúa una reserva:
 
-A continuación se muestran los resultados obtenidos en las pruebas de Eye Tracking:
+* **1. Conversión y Reserva (Header)**
+  * **Prueba asociada:** *“Encuentra el botón 'RESERVAR'.”*
+  * **Objetivo:** Comprobar la efectividad y peso visual del Call To Action (CTA) principal de la interfaz.
 
-| Prueba | P02 | P05 | P07 |
-| :---: | :---: | :---: | :---: |
-| **Encontrar el enlace a instagram** | ![HeatMap de buscar Instagram](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_instagram.png) | ![HeatMap de buscar Instagram](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_instagram.png) | ![HeatMap de buscar Instagram](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_instagram.png) |
-| **Encontrar el precio de un producto** | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_precio.png) | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_precio.png) | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_precio.png) |
-| **Encontrar la ubicación del local** | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_ubicacion.png) |
-| **Encontrar el botón de reservar** | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_reserva.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_reservar.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_reservar.png) |
+* **2. Consulta de la Carta (Cards de Producto)**
+  * **Prueba asociada:** *“Encuentra el precio de algún producto de la carta.”*
+  * **Objetivo:** Validar el diseño de los componentes de la carta. Se analiza si el precio destaca lo suficiente dentro de la tarjeta o si sufre de ceguera visual frente a la fotografía decorativa.
 
-Por limitaciones de la aplicación utilizada para el Eye Tracking, las pruebas solo se han podido realizar a tres de los participantes involucrados en la evaluación de la página.
+* **3. Navegación e Información de Cierre (Home / Footer)**
+  * **Pruebas asociadas:** *“Encuentra el enlace a Instagram desde la página principal”* y *“Encuentra la ubicación del local.”*
+  * **Objetivo:** Verificar si la información de contacto y comunidad es fácil de localizar mediante un escaneo vertical rápido o si compite con el ruido decorativo.
 
-Aun así, los participantes han completado todas las tareas sin ningún tipo de asistencia.
+#### Definición de Puntos de Interés (POI / AOI)
+Para monitorizar el comportamiento biométrico mediante *GazeMapping*, se delimitaron las siguientes zonas de fijación específicas:
+* El Logotipo del restaurante.
+* Elementos del menú superior (`INICIO`, `CARTA`, `RESERVA`).
+* Los enlaces de comunidad y redes sociales situados en el footer.
+* Las tarjetas de la carta, aislando de forma independiente el nombre del plato y el número del precio.
 
 ----
 
@@ -390,29 +395,58 @@ Aun así, los participantes han completado todas las tareas sin ningún tipo de 
 Inmediatamente después de interactuar con los sitios web, los datos de percepción subjetiva se recolectaron de forma individual mediante formularios en **Tally.so** y se procesaron estadísticamente a través de la suite multivariable **SUS Analysis Toolkit**.
 
 * **Plantilla base utilizada:** [Tally SUS Template](https://tally.so/templates/escala-sus-test-de-usabilidad/wAyNNw)
-* **Dataset resultados:** [Consultar datos](https://github.com/manuelmartinz/UX_CaseStudy/blob/d4e7b5098c62261394ecc80b05cf2e30e3c67fbe/P5/Escala%20SUS%20(test_usabilidad).xlsx)
+* **Dataset resultados:** [Consultar dataset en Excel](https://github.com/manuelmartinz/UX_CaseStudy/blob/d4e7b5098c62261394ecc80b05cf2e30e3c67fbe/P5/Escala%20SUS%20(test_usabilidad).xlsx)
 
+Calculamos el SUS Score para cada participante aplicando el algoritmo estándar de normalización ($X-1$ para ítems impares, $5-X$ para ítems pares, multiplicando el sumatorio por $2.5$), obteniendo la siguiente tabla homogeneizada con los criterios de la asignatura:
+
+| ID | Caso | SUS Score | Evaluación Lingüística | Clasificación |
+| :---: | :---: | :---: | :--- | :---: |
+| **P01** | **B** | 95.0 | Excelente | **A** |
+| **P02** | **B** | 70.0 | Buena | **C** |
+| **P03** | **A** | 100.0 | Excelente | **A** |
+| **P04** | **A** | 85.0 | Excelente | **A** |
+| **P05** | **B** | 100.0 | Excelente | **A** |
+| **P06** | **A** | 90.0 | Excelente | **A** |
+| **P07** | **B** | 72.5 | Buena | **C** |
+| **P08** | **B** | 67.5 | Aceptable pero débil | **D** |
+| **P09** | **A** | 85.0 | Excelente | **A** |
+| **P10** | **A** | 80.0 | Buena | **C** |
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
-Obtuvimos los siguientes resultados:
+Tras calcular los resultados SUS Score de las respuestas a los cuestionarios, obtuvimos los siguientes resultados para cada caso:
+
 | Caso Evaluado | Puntuación Media SUS | Grado de Aceptabilidad | Escala Lingüística | Clasificación |
 | :--- | :---: | :---: | :--- | :---: |
 | **Caso A (Goiko)** | **88.0 / 100** | ACEPTABLE | Excelente | **A** |
 | **Caso B (Anime Ramen)** | **81.0 / 100** | ACEPTABLE | Excelente | **A** |
 
-Tras el análisis agregado de los datos cuantitativos y biométricos, se determina con total claridad que el Caso A (Goiko) es la alternativa más usable.
+**Conclusión del análisis estadístico:** Tras contrastar las métricas cuantitativas, ambos sistemas demuestran un rendimiento sobresaliente, situándose en la franja de Aceptable (Clasificación A / Excelente) al superar con creces el umbral crítico de 68 puntos.
 
-Aunque ambos proyectos se sitúan de forma sobresaliente en la franja de excelencia (Clasificación A), Goiko aventaja a Anime Ramen por un margen de 7 puntos en la escala SUS y demuestra un rendimiento superior en las tres dimensiones analizadas en la matriz.
 
+#### ¿Qué caso es más usable?
+Tras el análisis de los datos cuantitativos y biométricos, se determina que el **Caso A (Goiko) es la alternativa más usable**. 
+
+Aunque ambos proyectos se sitúan en la franja de excelencia (**Clasificación A**), Goiko aventaja a Anime Ramen por un margen de 7 puntos en la escala SUS y demuestra un rendimiento superior en las tres dimensiones analizadas en la matriz. El éxito de la Alternativa A (Goiko) radica en el principio de minimalismo y jerarquía visual: al dotar a los CTA y a los datos monetarios de un tamaño destacado y un contraste limpio, consigue que el ojo del participante procese la información de manera directa. Por el contrario, la Alternativa B (Anime Ramen) penaliza sutilmente la experiencia al forzar al usuario a realizar un mayor esfuerzo visual debido a componentes clave pequeños y a un ruido decorativo de fondo que dispersa la mirada.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Por limitaciones de la aplicación utilizada para el Eye Tracking, las pruebas solo se han podido realizar a tres de los participantes involucrados en la evaluación de la página.
+
+Aun así, los participantes han completado todas las tareas sin ningún tipo de asistencia.
+
+A continuación se muestran los resultados obtenidos en las pruebas de Eye Tracking:
+
+| Prueba | P02 | P05 | P07 |
+| :---: | :---: | :---: | :---: |
+| **Encontrar el enlace a instagram** | ![HeatMap de buscar Instagram](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_instagram.png) | ![HeatMap de buscar Instagram](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_instagram.png) | ![HeatMap de buscar Instagram](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_instagram.png) |
+| **Encontrar el precio de un producto** | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_precio.png) | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_precio.png) | ![HeatMap de buscar precio](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_precio.png) |
+| **Encontrar la ubicación del local** | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_ubicacion.png) | ![HeatMap de buscar ubicación](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_ubicacion.png) |
+| **Encontrar el botón de reservar** | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P02/buscar_reserva.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P05/buscar_reservar.png) | ![HeatMap de buscar botón reserva](https://github.com/manuelmartinz/UX_CaseStudy/blob/86387e8a0d9f4bdc8ab2458ae9e6255afd2675e6/P5/Eye%20Tracking/P07/buscar_reservar.png) |
 
 
 ![experimento](img/experimentoET.png)  
