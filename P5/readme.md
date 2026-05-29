@@ -102,18 +102,18 @@ Este cuestionario consta de 10 preguntas, que pueden ser calificadas del 1 al 5 
 
 Los resultados fueron los siguientes:
 
-| Pregunta | P01 (B) | P02 (B) | P03 (A) |  P04 (A) | P05 (B) | P06 (A) | P07 (B) | P08 (B) | P09 (A) | P10 (A) |
-| :--- | :---: | :---: | :--- |
-| **Creo que me gustará visitar con frecuencia este website** | 5 | 5 | 5 | 5 | 5 | 1 | 3 | 3 | 4 | 4 |
-| **Encontré el website innecesariamente complejo** | 1 | 2 | 1 | 1 | 1 | 1 | 2 | 2 | 1 | 2 |  
-| **Pensé que era fácil utilizar este website** | 4 | 4 | 5 | 4 | 5 | 5 | 4 | 3 | 4 | 4 | 
-| **Creo que necesitaría del apoyo de un experto para recorrer el website** | 1 | 3 | 1 | 1 | 1 | 1 | 2 | 2 | 1 | 1 |
-| **Encontré las funciones del website bastante bien integradas** | 5 | 4 | 5 | 4 | 5 | 5 | 3 | 3 | 4 | 3 |
-| **Pensé que había demasiada inconsistencia en el website** | 1 | 2 | 1 | 1 | 1 | 1 | 2 | 2 | 1 | 2 | 
-| **Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website** | 5 | 4 | 5 | 4 | 5 | 5 | 4 | 4 | 4 | 4 | 
-| **Encontré el website muy grande al recorrerlo** | 2 | 2 | 1 | 2 | 1 | 1 | 2 | 2 | 2 | 1 |
-| **Me sentí muy confiado en el manejo del website** | 5 | 3 | 5 | 4 | 5 | 5 | 4 | 4 | 4 | 4 |
-| **Necesito aprender muchas cosas antes de manejarse en el website** | 1 | 3 | 1 | 2 | 1 | 1 | 1 | 2 | 1 | 1 |
+| Pregunta | P03 (A) | P04 (A) | P06 (A) | P09 (A) | P10 (A) | P01 (B) | P02 (B) | P05 (B) | P07 (B) | P08 (B) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1. Creo que me gustará visitar con frecuencia este website** | 5 | 5 | 1 | 4 | 4 | 5 | 5 | 5 | 3 | 3 |
+| **2. Encontré el website innecesariamente complejo** | 1 | 1 | 1 | 1 | 2 | 1 | 2 | 1 | 2 | 2 |
+| **3. Pensé que era fácil utilizar este website** | 5 | 4 | 5 | 4 | 4 | 4 | 4 | 5 | 4 | 3 |
+| **4. Creo que necesitaría del apoyo de un experto para recorrer el website** | 1 | 1 | 1 | 1 | 1 | 1 | 3 | 1 | 2 | 2 |
+| **5. Encontré las funciones del website bastante bien integradas** | 5 | 4 | 5 | 4 | 3 | 5 | 4 | 5 | 3 | 3 |
+| **6. Pensé que había demasiada inconsistencia en el website** | 1 | 1 | 1 | 1 | 2 | 1 | 2 | 1 | 2 | 2 |
+| **7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website** | 5 | 4 | 5 | 4 | 4 | 5 | 4 | 5 | 4 | 4 |
+| **8. Encontré el website muy grande al recorrerlo** | 1 | 2 | 1 | 2 | 1 | 2 | 2 | 1 | 2 | 2 |
+| **9. Me sentí muy confiado en el manejo del website** | 5 | 4 | 5 | 4 | 4 | 5 | 3 | 5 | 4 | 4 |
+| **10. Necesito aprender muchas cosas antes de manejarse en el website** | 1 | 2 | 1 | 1 | 1 | 1 | 3 | 1 | 1 | 2 |
 
 ### Tratamiento de datos y cálculo de usabilidad
 Las puntuaciones obtenidas a través de los cuestionarios de Tally se tabularon y procesaron manualmente siguiendo la metodología matemática estándar de la escala SUS. Para homogeneizar las respuestas y neutralizar el sesgo de las afirmaciones, los datos brutos se transformaron bajo el siguiente criterio:
