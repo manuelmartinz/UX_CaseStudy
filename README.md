@@ -494,8 +494,8 @@ En esta fase se ha procedido a la traslación técnica del sistema de diseño in
 
 Para garantizar la modularidad, consistencia y escalabilidad de la UI de Goiko, se ha desplegado un entorno de documentación atómica utilizando **Storybook**. Se han aislado y testeado individualmente los componentes interactivos clave de la plataforma (tales como la tarjeta de producto de hamburguesas `ProductCard`, el selector dinámico de complementos `IngredientSelector` y los botones globales de acción para reservas `CTA_Button`), documentando sus diferentes estados, propiedades (*props*) y variantes visuales de forma desacoplada del flujo de la aplicación.
 
-* **Storybooks:** Los archivos de historias quedan subidos en [`./P5/storybook/`](https://github.com/manuelmartinz/UX_CaseStudy/tree/47844f3e3f8c051374be0c9798cff594edbb1852/P4/storybook)
-* **Código React:** El código fuente de los componentes y estilos se encuentra en [`./P5/code/`](./P5/code/) 
+* **Storybooks:** Los archivos de historias quedan subidos en [`./P4/storybook/`](https://github.com/manuelmartinz/UX_CaseStudy/tree/47844f3e3f8c051374be0c9798cff594edbb1852/P4/storybook)
+* **Código React:** El código fuente de los componentes y estilos se encuentra en [`./P4/code/`](./P4/code/) 
 
 <br>
 
