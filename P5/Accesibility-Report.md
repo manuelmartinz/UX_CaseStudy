@@ -2,12 +2,14 @@
 
 <img src="https://img.uxcel.com/cdn-cgi/image/format=auto/practices/wcag-principles-overview-1742315821212/a-1742315821212-2x.jpg" alt="usability Download png" style="height:200px" />
 
+
 barChart
     title Comparativa de Usabilidad - Escala SUS
     X-axis Caso Evaluado
     Y-axis Puntuación Media SUS (0-100)
     "Caso A (Goiko)" : 88.0
     "Caso B (Anime Ramen)" : 81.0
+
 
 ## 1. Ficha Técnica del Informe
 
