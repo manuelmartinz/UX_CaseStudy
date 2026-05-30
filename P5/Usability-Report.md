@@ -84,7 +84,11 @@ El análisis multivariable revela que las preguntas con peor puntuación en el *
 
 A pesar de estas pequeñas desviaciones, el 81.0 de media global confirma que la estructura de la aplicación es sólida y se encuentra muy por encima del aprobado estándar de usabilidad (68 puntos).
 
+Diagrama comparativo sobre la media de las respuestas a las cuestiones:
 ![Diagrama comparativo caso A-B](https://github.com/manuelmartinz/UX_CaseStudy/blob/53fb3718b16dd379fe8862ad66471d58855adc5d/img/chart.png)
+
+Diagrama sobre la puntuación obtenida del caso B de cada participante:
+![Diagrama puntuaciones caso B](https://github.com/manuelmartinz/UX_CaseStudy/blob/cfe407c57a21a2026d8753f50c638288227a27d2/img/chart%20(1).png)
 
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
