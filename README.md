@@ -29,7 +29,7 @@ Descripción:
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+>>> ![Logo Goiko](https://github.com/manuelmartinz/UX_CaseStudy/blob/6a703d1caf964df5275a23eadd9d5c0351c042ed/img/logo.png)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  [Lola Lorite Díaz](https://github.com/lolaloritediaz)     :octocat:     
@@ -467,12 +467,13 @@ La accesibilidad del Caso B es bastante positiva. Lighthouse obtiene una puntuac
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+Se ha realizado una auditoría y evaluación de usabilidad sobre el proyecto de nuestros compañeros (**Caso B - Anime Ramen**). El análisis combina datos empíricos de cuestionarios cuantitativos SUS, capturas biométricas mediante mapas de calor con Eye Tracking y revisiones de cumplimiento de accesibilidad técnica con WAVE y Lighthouse.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+* 📁 **Documento de Co-Evaluación:** [Consultar el Usability Report Completo (Caso B)]([./Usability-Report.md](https://github.com/manuelmartinz/UX_CaseStudy/blob/6a703d1caf964df5275a23eadd9d5c0351c042ed/P5/Usability-Report.md))
+* 🔗 **Asignación de equipos:** El cuadrante oficial de emparejamientos y revisiones cruzadas se encuentra disponible en la carpeta de organización de la asignatura [`asignacion_equipos`](https://github.com/mgea/UX_CaseStudy/blob/f4e2075727fb482ce509d9a5201c7791a7e3f3f0/GuionesPracticas/ABtesting.md)
 
-
+#### Valoración Personal del Equipo sobre la Evaluación de Usuarios
+La ejecución de estas pruebas cruzadas ha sido uno de los acontecimientos más reveladores del proceso de diseño. Nos ha demostrado que una interfaz puede parecer impecable y estéticamente atractiva en el lienzo de Figma, pero la realidad del comportamiento del usuario (revelada de forma objetiva por el Eye Tracking) siempre saca a la luz "puntos ciegos". Descubrir problemas como la ceguera visual en los precios o la dispersión de la mirada por culpa de elementos decorativos nos ha enseñado que las decisiones de diseño deben basarse siempre en datos empíricos y pruebas de comportamiento, y nunca en la mera intuición del diseñador.
 
 <br>
 
@@ -483,23 +484,25 @@ La accesibilidad del Caso B es bastante positiva. Lighthouse obtiene una puntuac
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+En esta fase se ha procedido a la traslación técnica del sistema de diseño interactivo de nuestro proyecto (**Caso A - Goiko**) a código real y funcional estructurado bajo la librería **React**. El proceso de maquetación en componentes web ha priorizado la fidelidad visual de la interfaz original, el uso de layouts adaptativos (*Responsive Design*) mediante CSS semántico.
 
+* **Código desarrollado:** Los componentes reactivos y la estructura de archivos quedan subidos en [`Código`](https://github.com/manuelmartinz/UX_CaseStudy/tree/88da468b002bec7c3a9ae7ff6e896f16c25aed6d/P4)
 
 ### 5.b Documentación con Storybook
 ![Método UX](img/usabilityReview.png)
 ----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+Para garantizar la modularidad, consistencia y escalabilidad de la UI de Goiko, se ha desplegado un entorno de documentación atómica utilizando **Storybook**. Se han aislado y testeado individualmente los componentes interactivos clave de la plataforma (tales como la tarjeta de producto de hamburguesas `ProductCard`, el selector dinámico de complementos `IngredientSelector` y los botones globales de acción para reservas `CTA_Button`), documentando sus diferentes estados, propiedades (*props*) y variantes visuales de forma desacoplada del flujo de la aplicación.
 
+* **Storybooks:** Los archivos de historias quedan subidos en [`./P5/storybook/`](https://github.com/manuelmartinz/UX_CaseStudy/tree/47844f3e3f8c051374be0c9798cff594edbb1852/P4/storybook)
+* **Código React:** El código fuente de los componentes y estilos se encuentra en [`./P5/code/`](./P5/code/) 
 
 <br>
 
 ## Conclusiones finales & Valoración de las prácticas
 
+El recorrido completo por las diferentes fases de esta asignatura nos ha aportado una visión madura, práctica e integrada de lo que significa la ingeniería del software orientada a la Experiencia de Usuario (UX/UI). Seguir de forma rigurosa una metodología de Diseño Centrado en el Usuario nos ha enseñado que el éxito de un producto digital no radica en la complejidad de su código, sino en lo bien que se alinea con las necesidades reales, habilidades y limitaciones del usuario final.
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
-
-
+La valoración general del proceso es **altamente positiva**. Hemos aprendido a ponernos en el lugar de diferentes arquetipos mediante las Personas y los Journey Maps, a organizar la arquitectura informativa a través de prototipos dinámicos, y a validar científicamente el diseño mediante métricas automáticas y biométricas (SUS, WAVE, Eye Tracking). Ver cómo un usuario real interactúa con nuestra interfaz y cómo las herramientas miden su nivel de frustración o fluidez ha sido un aprendizaje valioso para nuestro futuro profesional.
 
 
