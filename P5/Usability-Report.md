@@ -93,11 +93,13 @@ Diagrama sobre la puntuación obtenida del caso B de cada participante:
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
-[Presenta la evidencia visual del comportamiento del usuario]
+El análisis cualitativo basado en los mapas de calor (*Heatmaps*) obtenidos mediante la monitorización visual con **GazeMapping** a los participantes P02, P05 y P07 ha permitido identificar cómo procesan cognitivamente la interfaz de Anime Ramen:
 
-- **Heatmaps (Mapas de calor):** Incluye las capturas de GazeMapping. Comenta si los usuarios miraron los **POI** (Puntos de Interés) definidos.
-- **Zonas de Silencio:** Identifica elementos importantes que fueron totalmente ignorados.
-- **Hallazgo clave:** Ejemplo: "El 80% de los usuarios ignoró el botón de CTA debido a su ubicación en el margen inferior".
+* **Fijación e Impacto en los Puntos de Interés (POI):** Al analizar las zonas calientes del menú de la página principal, se observa una alta fijación en los elementos gráficos decorativos de estética anime y en los fondos con texturas secundarias. Esto compite de manera directa con la atención requerida por el botón "RESERVAR" (Header) y la sección de ubicación (Footer), generando fijaciones visuales muy dispersas en lugar de un escaneo directo y fluido.
+* **Zonas de Silencio:** Durante las pruebas en la sección de la Carta, los números correspondientes a los **precios de los productos** y las descripciones de los ingredientes actuaron como áreas de silencio visual durante los primeros segundos. La mirada se dirige de forma prioritaria y masiva hacia las fotografías de los platos de ramen.
+* **Hallazgo clave:** Existe un marcado fenómeno de **ceguera visual periférica** en las tarjetas de producto. Debido a que el tamaño de la tipografía de los precios es reducido y su color tiene un contraste bajo con el fondo, el ojo del usuario experimenta un retraso notable en su localización, viéndose obligado a realizar una búsqueda activa en lugar de percibirlos de manera intuitiva.
+
+---
 
 ## 5. Auditoría de Accesibilidad
 
@@ -152,13 +154,11 @@ WAVE obtuvo un **AIM Score de 9.9/10** y no detectó errores críticos. Sin emba
 
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
 
-No te limites a decir qué está mal; di cómo arreglarlo. Clasifica las recomendaciones por prioridad:
+Para transformar las debilidades detectadas en mejoras tangibles de negocio y usabilidad para la plataforma de **Anime Ramen**, se estructuran las siguientes soluciones de rediseño técnico ordenadas por su nivel de prioridad:
 
-| **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                  |
-| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Alta (Crítica)** | Ej. El SUS indica alta complejidad y el Eye Tracking muestra confusión en el menú. | Simplificar la arquitectura de información y aumentar el tamaño de las fuentes. |
-| **Media**          | Ej. Los usuarios no ven el botón de registro rápidamente.        | Cambiar el color del CTA a uno de mayor contraste según WCAG. |
-| **Baja**           | Ej. El logo no redirige a la home.                               | Añadir el enlace estándar al logotipo en la cabecera.        |
-
-
+| **Prioridad** | **Hallazgo Técnico / Biométrico** | **Recomendación de Mejora (Solución)** |
+| :--- | :--- | :--- |
+| **Alta (Crítica)** | El Eye Tracking muestra fijaciones caóticas y dispersas por la Home debido a la interferencia de fondos de diseño anime con los CTA. Los precios de los platos sufren retraso de lectura por tipografía demasiado reducida. | **Limpieza Visual y Jerarquía:** Aumentar el tamaño de la fuente de los precios a un mínimo de 16px en estilo negrita. Eliminar o suavizar las texturas de fondo que entorpecen los bloques interactivos para que el botón "RESERVAR" destaque inmediatamente. |
+| **Media** | Las auditorías automáticas de Lighthouse detectan botones iconográficos vacíos sin un nombre accesible (`Criterio 4.1.2`) y deficiencias en las relaciones de contraste tipográfico en pantallas (`Criterio 1.4.3`). | **Correcciones de Accesibilidad AA:** Modificar las variables de color CSS del menú para oscurecer el texto gris de las descripciones a un tono contrastado (#1A1A1A). Incorporar la propiedad descriptiva `aria-label` en todo botón basado en iconos. |
+| **Baja** | WAVE genera alertas de falta de regiones (`No page regions`) y de desorden estructural en los títulos de contenido (`No heading structure`) junto a 2 etiquetas `<noscript>`. | **Refactorización Semántica:** Reestructurar el árbol de componentes sustituyendo los bloques genéricos por etiquetas contenedoras nativas de HTML5 (`<header>`, `<main>`, `<footer>`) y anidar coherentemente los encabezados de `<h1>` a `<h3>`. |
 
