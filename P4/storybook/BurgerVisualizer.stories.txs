@@ -1,0 +1,116 @@
+import type { Meta, StoryObj } from '@storybook/react';
+import { BurgerVisualizer } from './BurgerVisualizer';
+
+const meta = {
+  title: 'Components/BurgerVisualizer',
+  component: BurgerVisualizer,
+  parameters: {
+    layout: 'centered',
+    backgrounds: {
+      default: 'dark',
+    },
+  },
+  tags: ['autodocs'],
+  decorators: [
+    (Story) => (
+      <div style={{ width: '500px', height: '600px', backgroundColor: '#000', padding: '20px' }}>
+        <Story />
+      </div>
+    ),
+  ],
+} satisfies Meta<typeof BurgerVisualizer>;
+
+export default meta;
+type Story = StoryObj<typeof meta>;
+
+export const Empty: Story = {
+  args: {
+    selections: {
+      pan: null,
+      carne: null,
+      verdura: null,
+      queso: null,
+      salsa: null,
+      otros: null,
+    },
+  },
+};
+
+export const ClassicBurger: Story = {
+  args: {
+    selections: {
+      pan: { name: 'Sésamo', price: 0.75 },
+      carne: { name: 'Smash vaca madurada', price: 4.5 },
+      verdura: { name: 'Lechuga iceberg', price: 0.25 },
+      queso: { name: 'Cheddar', price: 0.75 },
+      salsa: { name: 'Goiko BBQ', price: 0.75 },
+      otros: null,
+    },
+  },
+};
+
+export const VeggieBurger: Story = {
+  args: {
+    selections: {
+      pan: { name: 'Brioche', price: 1.5 },
+      carne: { name: 'Veggie burger', price: 3.0 },
+      verdura: { name: 'Guacamole', price: 2.5 },
+      queso: { name: 'Cabra', price: 1.75 },
+      salsa: { name: 'Mayo trufada', price: 1.5 },
+      otros: null,
+    },
+  },
+};
+
+export const PremiumWagyu: Story = {
+  args: {
+    selections: {
+      pan: { name: 'Pretzel', price: 2.0 },
+      carne: { name: 'Wagyu', price: 8.5 },
+      verdura: { name: 'Cebolla caramelizada', price: 1.0 },
+      queso: { name: 'Raclette', price: 2.5 },
+      salsa: { name: 'Salsa bourbon', price: 1.5 },
+      otros: { name: 'Bacon crispy', price: 1.5 },
+    },
+  },
+};
+
+export const SpicyChicken: Story = {
+  args: {
+    selections: {
+      pan: { name: 'Negro', price: 2.5 },
+      carne: { name: 'Pollo crispy', price: 3.5 },
+      verdura: { name: 'Jalapeños', price: 0.75 },
+      queso: { name: 'Americano', price: 0.75 },
+      salsa: { name: 'Chipotle', price: 1.0 },
+      otros: { name: 'Cebolla crunch', price: 1.25 },
+    },
+  },
+};
+
+export const BreakfastBurger: Story = {
+  args: {
+    selections: {
+      pan: { name: 'Potato Roll', price: 1.0 },
+      carne: { name: 'Doble smash', price: 6.0 },
+      verdura: { name: 'Tomate fresco', price: 0.5 },
+      queso: { name: 'Cheddar', price: 0.75 },
+      salsa: { name: 'Mostaza miel', price: 0.75 },
+      otros: { name: 'Huevo frito', price: 1.25 },
+    },
+  },
+};
+
+export const CrazyBurger: Story = {
+  args: {
+    selections: {
+      pan: { name: 'Sin gluten', price: 1.75 },
+      carne: { name: 'Angus', price: 5.5 },
+      verdura: { name: 'Pepinillo', price: 0.5 },
+      queso: { name: 'Azul', price: 1.5 },
+      salsa: { name: 'Salsa picante', price: 1.0 },
+      otros: { name: 'Donut glazeado', price: 3.5 },
+    },
+  },
+};
+
