@@ -469,8 +469,8 @@ La accesibilidad del Caso B es bastante positiva. Lighthouse obtiene una puntuac
 
 Se ha realizado una auditoría y evaluación de usabilidad sobre el proyecto de nuestros compañeros (**Caso B - Anime Ramen**). El análisis combina datos empíricos de cuestionarios cuantitativos SUS, capturas biométricas mediante mapas de calor con Eye Tracking y revisiones de cumplimiento de accesibilidad técnica con WAVE y Lighthouse.
 
-* 📁 **Documento de Co-Evaluación:** [Consultar el Usability Report Completo (Caso B)]([./Usability-Report.md](https://github.com/manuelmartinz/UX_CaseStudy/blob/6a703d1caf964df5275a23eadd9d5c0351c042ed/P5/Usability-Report.md))
-* 🔗 **Asignación de equipos:** El cuadrante oficial de emparejamientos y revisiones cruzadas se encuentra disponible en la carpeta de organización de la asignatura [`asignacion_equipos`](https://github.com/mgea/UX_CaseStudy/blob/f4e2075727fb482ce509d9a5201c7791a7e3f3f0/GuionesPracticas/ABtesting.md)
+* **Documento de Co-Evaluación:** [Consultar el Usability Report Completo (Caso B)]([./Usability-Report.md](https://github.com/manuelmartinz/UX_CaseStudy/blob/6a703d1caf964df5275a23eadd9d5c0351c042ed/P5/Usability-Report.md))
+* **Asignación de equipos:** El cuadrante oficial de emparejamientos y revisiones cruzadas se encuentra disponible en la carpeta de organización de la asignatura [`asignacion_equipos`](https://github.com/mgea/UX_CaseStudy/blob/f4e2075727fb482ce509d9a5201c7791a7e3f3f0/GuionesPracticas/ABtesting.md)
 
 #### Valoración Personal del Equipo sobre la Evaluación de Usuarios
 La ejecución de estas pruebas cruzadas ha sido uno de los acontecimientos más reveladores del proceso de diseño. Nos ha demostrado que una interfaz puede parecer impecable y estéticamente atractiva en el lienzo de Figma, pero la realidad del comportamiento del usuario (revelada de forma objetiva por el Eye Tracking) siempre saca a la luz "puntos ciegos". Descubrir problemas como la ceguera visual en los precios o la dispersión de la mirada por culpa de elementos decorativos nos ha enseñado que las decisiones de diseño deben basarse siempre en datos empíricos y pruebas de comportamiento, y nunca en la mera intuición del diseñador.
@@ -486,7 +486,7 @@ La ejecución de estas pruebas cruzadas ha sido uno de los acontecimientos más 
 
 En esta fase se ha procedido a la traslación técnica del sistema de diseño interactivo de nuestro proyecto (**Caso A - Goiko**) a código real y funcional estructurado bajo la librería **React**. El proceso de maquetación en componentes web ha priorizado la fidelidad visual de la interfaz original, el uso de layouts adaptativos (*Responsive Design*) mediante CSS semántico.
 
-* **Código desarrollado:** Los componentes reactivos y la estructura de archivos quedan subidos en [`Código`](https://github.com/manuelmartinz/UX_CaseStudy/tree/88da468b002bec7c3a9ae7ff6e896f16c25aed6d/P4)
+* **Código desarrollado:** [`Goiko`](https://dew-rinse-96898431.figma.site/)
 
 ### 5.b Documentación con Storybook
 ![Método UX](img/usabilityReview.png)
